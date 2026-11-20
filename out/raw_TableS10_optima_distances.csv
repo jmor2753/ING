@@ -1,0 +1,4 @@
+"comparison","distance_median","lo95","hi95","ratio_ranges_overlap"
+"Lifespan vs Lifetime eggs",72.61,55.09,115.2,"no"
+"Lifespan vs Egg-production rate",122,110.3,154.3,"no"
+"Lifetime eggs vs Egg-production rate",67.81,67.81,67.81,"no"

@@ -1,0 +1,469 @@
+treat,replicate,species,experiment,day,day2,protein,carb
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-1,1,32.5260346075,6.505206921500001
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-2,2,52.163417564999996,10.432683513
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-3,3,103.53507171,20.707014342
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-4,4,160.81024270499998,32.162048541000004
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-5,5,210.141047305,42.02820946100001
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-6,6,210.141047305,42.02820946100001
+p35:c7,1,Heliothis subflexa x virescens,Nochoice,day0-7,7,210.141047305,42.02820946100001
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-1,1,34.844753118,6.9689506236000005
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-2,2,60.797458645,12.159491729
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-3,3,99.0490473,19.80980946
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-4,4,160.87791758499998,32.175583517
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-5,5,209.33482370500002,41.86696474100001
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-6,6,209.33482370500002,41.86696474100001
+p35:c7,2,Heliothis subflexa x virescens,Nochoice,day0-7,7,209.33482370500002,41.86696474100001
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-1,1,34.166064639,6.833212927800001
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-2,2,63.091470644999994,12.618294129
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-3,3,100.40562342999999,20.081124686
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-4,4,155.12054159,31.024108318000003
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-5,5,191.5251114,38.30502228
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-6,6,191.5251114,38.30502228
+p35:c7,3,Heliothis subflexa x virescens,Nochoice,day0-7,7,191.5251114,38.30502228
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-1,1,32.6014511025,6.520290220500001
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-2,2,54.722166135,10.944433227000001
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-3,3,92.255239195,18.451047839000005
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-4,4,127.87923007999999,25.575846016
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-5,5,168.47224681,33.694449362
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-6,6,168.47224681,33.694449362
+p35:c7,4,Heliothis subflexa x virescens,Nochoice,day0-7,7,168.47224681,33.694449362
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-1,1,26.971984854499997,5.394396970900001
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-2,2,39.026834875,7.805366975
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-3,3,59.80960324499999,11.961920649
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-4,4,84.5883822,16.91767644
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-5,5,133.19075133,26.638150266000004
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-6,6,182.273900935,36.454780187000004
+p35:c7,5,Heliothis subflexa x virescens,Nochoice,day0-7,7,225.69200730999998,45.138401462000004
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-1,1,32.743497807999994,6.5486995616
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-2,2,83.345241525,16.669048305000004
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-3,3,134.687673785,26.937534757
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-4,4,134.687673785,26.937534757
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-5,5,134.687673785,26.937534757
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-6,6,134.687673785,26.937534757
+p35:c7,6,Heliothis subflexa x virescens,Nochoice,day0-7,7,134.687673785,26.937534757
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-1,1,26.147055493999996,5.2294110988
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-2,2,71.627318175,14.325463635000002
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-3,3,109.483181465,21.896636293000004
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-4,4,109.483181465,21.896636293000004
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-5,5,109.483181465,21.896636293000004
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-6,6,109.483181465,21.896636293000004
+p35:c7,7,Heliothis subflexa x virescens,Nochoice,day0-7,7,109.483181465,21.896636293000004
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-1,1,20.5929049795,4.1185809959
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-2,2,33.8347561685,6.7669512337
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-3,3,65.094860845,13.018972169000001
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-4,4,92.38350016,18.476700032000004
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-5,5,92.38350016,18.476700032000004
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-6,6,92.38350016,18.476700032000004
+p35:c7,8,Heliothis subflexa x virescens,Nochoice,day0-7,7,92.38350016,18.476700032000004
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-1,1,29.0106868695,5.802137373900001
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-2,2,67.44855319999999,13.48971064
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-3,3,105.01359238999999,21.002718478000002
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-4,4,105.01359238999999,21.002718478000002
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-5,5,105.01359238999999,21.002718478000002
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-6,6,105.01359238999999,21.002718478000002
+p35:c7,9,Heliothis subflexa x virescens,Nochoice,day0-7,7,105.01359238999999,21.002718478000002
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-1,1,24.2884832855,4.857696657100001
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-2,2,55.44289645999999,11.088579292
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-3,3,106.853510995,21.370702199
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-4,4,139.66666819,27.933333638000004
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-5,5,139.66666819,27.933333638000004
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-6,6,139.66666819,27.933333638000004
+p35:c7,10,Heliothis subflexa x virescens,Nochoice,day0-7,7,139.66666819,27.933333638000004
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-1,1,38.52474829,7.704949658
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-2,2,66.107443115,13.221488623000003
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-3,3,104.92290931499998,20.984581863
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-4,4,145.33630660499998,29.067261321
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-5,5,178.04719215499998,35.609438431
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-6,6,178.04719215499998,35.609438431
+p35:c7,11,Heliothis subflexa x virescens,Nochoice,day0-7,7,178.04719215499998,35.609438431
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-1,1,28.673634335499997,5.734726867100001
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-2,2,46.6613679,9.33227358
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-3,3,77.031767785,15.406353557000001
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-4,4,123.892802495,24.778560499000005
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-5,5,155.10709259499998,31.021418519
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-6,6,155.10709259499998,31.021418519
+p35:c7,12,Heliothis subflexa x virescens,Nochoice,day0-7,7,155.10709259499998,31.021418519
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-1,1,35.63187387200001,17.815936936000003
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-2,2,89.06938818400002,44.53469409200001
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-3,3,143.44371336400002,71.72185668200001
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-4,4,190.23409272,95.11704636
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-5,5,190.23409272,95.11704636
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-6,6,190.23409272,95.11704636
+p28:c14,1,Heliothis subflexa x virescens,Nochoice,day0-7,7,190.23409272,95.11704636
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-1,1,28.865385584000006,14.432692792000003
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-2,2,70.58571416400001,35.292857082000005
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-3,3,119.004771312,59.502385656
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-4,4,145.298350624,72.649175312
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-5,5,145.298350624,72.649175312
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-6,6,145.298350624,72.649175312
+p28:c14,2,Heliothis subflexa x virescens,Nochoice,day0-7,7,145.298350624,72.649175312
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-1,1,27.5726273928,13.7863136964
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-2,2,61.117086156000006,30.558543078000003
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-3,3,84.10339565600002,42.05169782800001
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-4,4,132.92457074400002,66.46228537200001
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-5,5,164.47487453600002,82.23743726800001
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-6,6,164.47487453600002,82.23743726800001
+p28:c14,3,Heliothis subflexa x virescens,Nochoice,day0-7,7,164.47487453600002,82.23743726800001
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-1,1,32.11773586,16.05886793
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-2,2,79.02395687200001,39.51197843600001
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-3,3,132.49554715600001,66.24777357800001
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-4,4,172.61339032000004,86.30669516000002
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-5,5,172.61339032000004,86.30669516000002
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-6,6,172.61339032000004,86.30669516000002
+p28:c14,4,Heliothis subflexa x virescens,Nochoice,day0-7,7,172.61339032000004,86.30669516000002
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-1,1,30.688214116,15.344107058
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-2,2,75.14879792,37.57439896
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-3,3,112.19745476800001,56.09872738400001
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-4,4,112.19745476800001,56.09872738400001
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-5,5,112.19745476800001,56.09872738400001
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-6,6,112.19745476800001,56.09872738400001
+p28:c14,5,Heliothis subflexa x virescens,Nochoice,day0-7,7,112.19745476800001,56.09872738400001
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-1,1,33.926906356,16.963453178
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-2,2,85.6940532,42.8470266
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-3,3,111.411473376,55.705736688
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-4,4,111.411473376,55.705736688
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-5,5,111.411473376,55.705736688
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-6,6,111.411473376,55.705736688
+p28:c14,6,Heliothis subflexa x virescens,Nochoice,day0-7,7,111.411473376,55.705736688
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-1,1,31.540783316000002,15.770391658000001
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-2,2,80.48951862,40.24475931
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-3,3,109.894865724,54.947432862
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-4,4,109.894865724,54.947432862
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-5,5,109.894865724,54.947432862
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-6,6,109.894865724,54.947432862
+p28:c14,7,Heliothis subflexa x virescens,Nochoice,day0-7,7,109.894865724,54.947432862
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-1,1,24.512104052800005,12.256052026400003
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-2,2,61.68082460400001,30.840412302000004
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-3,3,105.69988128000001,52.84994064000001
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-4,4,105.69988128000001,52.84994064000001
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-5,5,105.69988128000001,52.84994064000001
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-6,6,105.69988128000001,52.84994064000001
+p28:c14,8,Heliothis subflexa x virescens,Nochoice,day0-7,7,105.69988128000001,52.84994064000001
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-1,1,24.032679367200004,12.016339683600002
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-2,2,61.78547788,30.89273894
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-3,3,92.393428764,46.196714382
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-4,4,92.393428764,46.196714382
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-5,5,92.393428764,46.196714382
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-6,6,92.393428764,46.196714382
+p28:c14,9,Heliothis subflexa x virescens,Nochoice,day0-7,7,92.393428764,46.196714382
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-1,1,20.2261069892,10.1130534946
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-2,2,57.517184732000004,28.758592366000002
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-3,3,90.07753319600002,45.03876659800001
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-4,4,90.07753319600002,45.03876659800001
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-5,5,90.07753319600002,45.03876659800001
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-6,6,90.07753319600002,45.03876659800001
+p28:c14,10,Heliothis subflexa x virescens,Nochoice,day0-7,7,90.07753319600002,45.03876659800001
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-1,1,37.757500312,18.878750156
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-2,2,93.75233803600001,46.876169018000006
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-3,3,129.584508816,64.792254408
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-4,4,129.584508816,64.792254408
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-5,5,129.584508816,64.792254408
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-6,6,129.584508816,64.792254408
+p28:c14,11,Heliothis subflexa x virescens,Nochoice,day0-7,7,129.584508816,64.792254408
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-1,1,28.907633412000003,14.453816706000001
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-2,2,72.38791912800001,36.193959564000004
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-3,3,119.40000139200001,59.700000696000004
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-4,4,157.52735619600003,78.76367809800001
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-5,5,157.52735619600003,78.76367809800001
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-6,6,157.52735619600003,78.76367809800001
+p28:c14,12,Heliothis subflexa x virescens,Nochoice,day0-7,7,157.52735619600003,78.76367809800001
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-1,1,30.555938132999998,30.555938132999998
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-2,2,70.604863833,70.604863833
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-3,3,113.745466317,113.745466317
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-4,4,144.1241109,144.1241109
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-5,5,144.1241109,144.1241109
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-6,6,144.1241109,144.1241109
+p21:c21,1,Heliothis subflexa x virescens,Nochoice,day0-7,7,144.1241109,144.1241109
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-1,1,26.024726426999997,26.024726426999997
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-2,2,65.66510874,65.66510874
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-3,3,107.58901381199999,107.58901381199999
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-4,4,130.15001718599999,130.15001718599999
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-5,5,130.15001718599999,130.15001718599999
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-6,6,130.15001718599999,130.15001718599999
+p21:c21,2,Heliothis subflexa x virescens,Nochoice,day0-7,7,130.15001718599999,130.15001718599999
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-1,1,26.139910524,26.139910524
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-2,2,67.953080475,67.953080475
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-3,3,101.77610394,101.77610394
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-4,4,101.77610394,101.77610394
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-5,5,101.77610394,101.77610394
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-6,6,101.77610394,101.77610394
+p21:c21,3,Heliothis subflexa x virescens,Nochoice,day0-7,7,101.77610394,101.77610394
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-1,1,28.122354855,28.122354855
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-2,2,64.898888376,64.898888376
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-3,3,82.526123547,82.526123547
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-4,4,82.526123547,82.526123547
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-5,5,82.526123547,82.526123547
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-6,6,82.526123547,82.526123547
+p21:c21,4,Heliothis subflexa x virescens,Nochoice,day0-7,7,82.526123547,82.526123547
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-1,1,28.199926356000002,28.199926356000002
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-2,2,66.484093683,66.484093683
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-3,3,93.404004498,93.404004498
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-4,4,93.404004498,93.404004498
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-5,5,93.404004498,93.404004498
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-6,6,93.404004498,93.404004498
+p21:c21,5,Heliothis subflexa x virescens,Nochoice,day0-7,7,93.404004498,93.404004498
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-1,1,23.105952534,23.105952534
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-2,2,55.557470535,55.557470535
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-3,3,77.00082893999999,77.00082893999999
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-4,4,77.00082893999999,77.00082893999999
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-5,5,77.00082893999999,77.00082893999999
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-6,6,77.00082893999999,77.00082893999999
+p21:c21,6,Heliothis subflexa x virescens,Nochoice,day0-7,7,77.00082893999999,77.00082893999999
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-1,1,22.001470764,22.001470764
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-2,2,54.33780156,54.33780156
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-3,3,71.74967410800001,71.74967410800001
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-4,4,71.74967410800001,71.74967410800001
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-5,5,71.74967410800001,71.74967410800001
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-6,6,71.74967410800001,71.74967410800001
+p21:c21,7,Heliothis subflexa x virescens,Nochoice,day0-7,7,71.74967410800001,71.74967410800001
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-1,1,14.8201884243,14.8201884243
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-2,2,40.246338741,40.246338741
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-3,3,68.51539669799999,68.51539669799999
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-4,4,68.51539669799999,68.51539669799999
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-5,5,68.51539669799999,68.51539669799999
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-6,6,68.51539669799999,68.51539669799999
+p21:c21,8,Heliothis subflexa x virescens,Nochoice,day0-7,7,68.51539669799999,68.51539669799999
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-1,1,23.003848854,23.003848854
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-2,2,57.086017127999995,57.086017127999995
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-3,3,84.844254558,84.844254558
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-4,4,84.844254558,84.844254558
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-5,5,84.844254558,84.844254558
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-6,6,84.844254558,84.844254558
+p21:c21,9,Heliothis subflexa x virescens,Nochoice,day0-7,7,84.844254558,84.844254558
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-1,1,20.8482799686,20.8482799686
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-2,2,46.585903896,46.585903896
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-3,3,65.760666762,65.760666762
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-4,4,65.760666762,65.760666762
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-5,5,65.760666762,65.760666762
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-6,6,65.760666762,65.760666762
+p21:c21,10,Heliothis subflexa x virescens,Nochoice,day0-7,7,65.760666762,65.760666762
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-1,1,31.670592050999996,31.670592050999996
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-2,2,80.392339881,80.392339881
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-3,3,114.28791427200001,114.28791427200001
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-4,4,114.28791427200001,114.28791427200001
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-5,5,114.28791427200001,114.28791427200001
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-6,6,114.28791427200001,114.28791427200001
+p21:c21,11,Heliothis subflexa x virescens,Nochoice,day0-7,7,114.28791427200001,114.28791427200001
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-1,1,23.075175500999997,23.075175500999997
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-2,2,57.91084257,57.91084257
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-3,3,90.315872262,90.315872262
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-4,4,123.70447708499998,123.70447708499998
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-5,5,123.70447708499998,123.70447708499998
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-6,6,123.70447708499998,123.70447708499998
+p21:c21,12,Heliothis subflexa x virescens,Nochoice,day0-7,7,123.70447708499998,123.70447708499998
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-1,1,21.017292212000005,42.03458442400001
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-2,2,47.61030850800001,95.22061701600002
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-3,3,78.47143304000001,156.94286608000002
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-4,4,91.05721478000001,182.11442956000002
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-5,5,91.05721478000001,182.11442956000002
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-6,6,91.05721478000001,182.11442956000002
+p14:c28,1,Heliothis subflexa x virescens,Nochoice,day0-7,7,91.05721478000001,182.11442956000002
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-1,1,14.973786534,29.947573068
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-2,2,40.878931380000004,81.75786276000001
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-3,3,75.90202438000001,151.80404876000003
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-4,4,95.78570383200001,191.57140766400002
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-5,5,95.78570383200001,191.57140766400002
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-6,6,95.78570383200001,191.57140766400002
+p14:c28,2,Heliothis subflexa x virescens,Nochoice,day0-7,7,95.78570383200001,191.57140766400002
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-1,1,15.381826544000003,30.763653088000005
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-2,2,40.955720498000005,81.91144099600001
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-3,3,57.182585376000006,114.36517075200001
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-4,4,57.182585376000006,114.36517075200001
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-5,5,57.182585376000006,114.36517075200001
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-6,6,57.182585376000006,114.36517075200001
+p14:c28,3,Heliothis subflexa x virescens,Nochoice,day0-7,7,57.182585376000006,114.36517075200001
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-1,1,16.592420572,33.184841144
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-2,2,41.727845166,83.455690332
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-3,3,57.45093440800001,114.90186881600002
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-4,4,57.45093440800001,114.90186881600002
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-5,5,57.45093440800001,114.90186881600002
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-6,6,57.45093440800001,114.90186881600002
+p14:c28,4,Heliothis subflexa x virescens,Nochoice,day0-7,7,57.45093440800001,114.90186881600002
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-1,1,13.7906767838,27.5813535676
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-2,2,36.866188506,73.732377012
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-3,3,52.316395824000004,104.63279164800001
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-4,4,52.316395824000004,104.63279164800001
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-5,5,52.316395824000004,104.63279164800001
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-6,6,52.316395824000004,104.63279164800001
+p14:c28,5,Heliothis subflexa x virescens,Nochoice,day0-7,7,52.316395824000004,104.63279164800001
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-1,1,16.4425765,32.885153
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-2,2,41.318705008,82.637410016
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-3,3,56.132506668000005,112.26501333600001
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-4,4,56.132506668000005,112.26501333600001
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-5,5,56.132506668000005,112.26501333600001
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-6,6,56.132506668000005,112.26501333600001
+p14:c28,6,Heliothis subflexa x virescens,Nochoice,day0-7,7,56.132506668000005,112.26501333600001
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-1,1,17.942260840000003,35.884521680000006
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-2,2,40.231436868,80.462873736
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-3,3,55.174577136,110.349154272
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-4,4,55.174577136,110.349154272
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-5,5,55.174577136,110.349154272
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-6,6,55.174577136,110.349154272
+p14:c28,7,Heliothis subflexa x virescens,Nochoice,day0-7,7,55.174577136,110.349154272
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-1,1,13.7157843354,27.4315686708
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-2,2,33.352247684000005,66.70449536800001
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-3,3,33.352247684000005,66.70449536800001
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-4,4,33.352247684000005,66.70449536800001
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-5,5,33.352247684000005,66.70449536800001
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-6,6,33.352247684000005,66.70449536800001
+p14:c28,8,Heliothis subflexa x virescens,Nochoice,day0-7,7,33.352247684000005,66.70449536800001
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-1,1,13.627306735000001,27.254613470000002
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-2,2,33.876866954,67.753733908
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-3,3,45.296708044000006,90.59341608800001
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-4,4,45.296708044000006,90.59341608800001
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-5,5,45.296708044000006,90.59341608800001
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-6,6,45.296708044000006,90.59341608800001
+p14:c28,9,Heliothis subflexa x virescens,Nochoice,day0-7,7,45.296708044000006,90.59341608800001
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-1,1,12.003399896600001,24.006799793200003
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-2,2,29.34263675,58.6852735
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-3,3,45.63980068200001,91.27960136400002
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-4,4,45.63980068200001,91.27960136400002
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-5,5,45.63980068200001,91.27960136400002
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-6,6,45.63980068200001,91.27960136400002
+p14:c28,10,Heliothis subflexa x virescens,Nochoice,day0-7,7,45.63980068200001,91.27960136400002
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-1,1,22.18203477,44.36406954
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-2,2,52.99372296400001,105.98744592800001
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-3,3,86.07109173600001,172.14218347200003
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-4,4,103.39349570200001,206.78699140400002
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-5,5,103.39349570200001,206.78699140400002
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-6,6,103.39349570200001,206.78699140400002
+p14:c28,11,Heliothis subflexa x virescens,Nochoice,day0-7,7,103.39349570200001,206.78699140400002
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-1,1,12.736791859400002,25.473583718800004
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-2,2,31.432081352,62.864162704
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-3,3,58.23776490000001,116.47552980000002
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-4,4,67.832739758,135.665479516
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-5,5,67.832739758,135.665479516
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-6,6,67.832739758,135.665479516
+p14:c28,12,Heliothis subflexa x virescens,Nochoice,day0-7,7,67.832739758,135.665479516
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-1,1,9.459938698,47.299693489999996
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-2,2,24.577487270000002,122.88743635
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-3,3,38.515872724,192.57936361999998
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-4,4,45.67958238200001,228.39791191
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-5,5,45.67958238200001,228.39791191
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-6,6,45.67958238200001,228.39791191
+p7:c35,1,Heliothis subflexa x virescens,Nochoice,day0-7,7,45.67958238200001,228.39791191
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-1,1,6.9495199053,34.7475995265
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-2,2,19.911726436000002,99.55863218
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-3,3,35.120671222000006,175.60335611
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-4,4,51.07402255900001,255.370112795
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-5,5,61.86826535400001,309.34132676999997
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-6,6,67.11061011900001,335.553050595
+p7:c35,2,Heliothis subflexa x virescens,Nochoice,day0-7,7,67.11061011900001,335.553050595
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-1,1,7.183425683,35.91712841499999
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-2,2,19.011900957,95.05950478499999
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-3,3,33.480251511000006,167.401257555
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-4,4,46.75559960400001,233.77799802
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-5,5,56.704238108000006,283.52119053999996
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-6,6,60.092383757,300.46191878499997
+p7:c35,3,Heliothis subflexa x virescens,Nochoice,day0-7,7,60.092383757,300.46191878499997
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-1,1,7.461267709000001,37.306338545
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-2,2,19.393191545,96.965957725
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-3,3,32.809364910000006,164.04682455
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-4,4,46.101947983,230.50973991499998
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-5,5,61.46614125400001,307.33070627
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-6,6,66.64010917200001,333.20054586
+p7:c35,4,Heliothis subflexa x virescens,Nochoice,day0-7,7,66.64010917200001,333.20054586
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-1,1,6.317603664400001,31.588018322
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-2,2,18.147146114999998,90.73573057499999
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-3,3,32.71554197100001,163.577709855
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-4,4,37.750191479,188.750957395
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-5,5,37.750191479,188.750957395
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-6,6,37.750191479,188.750957395
+p7:c35,5,Heliothis subflexa x virescens,Nochoice,day0-7,7,37.750191479,188.750957395
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-1,1,5.871878496400001,29.359392481999997
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-2,2,16.956127762,84.78063881
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-3,3,32.608965109,163.04482554499998
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-4,4,37.833642623,189.168213115
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-5,5,37.833642623,189.168213115
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-6,6,37.833642623,189.168213115
+p7:c35,6,Heliothis subflexa x virescens,Nochoice,day0-7,7,37.833642623,189.168213115
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-1,1,4.8675853093,24.337926546499997
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-2,2,13.228467168000002,66.14233584
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-3,3,22.858806376,114.29403187999999
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-4,4,27.980528555000003,139.90264277499998
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-5,5,27.980528555000003,139.90264277499998
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-6,6,27.980528555000003,139.90264277499998
+p7:c35,7,Heliothis subflexa x virescens,Nochoice,day0-7,7,27.980528555000003,139.90264277499998
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-1,1,5.904044363000001,29.520221815
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-2,2,15.759057125000002,78.79528562499999
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-3,3,26.527388496000004,132.63694248
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-4,4,32.573921989000006,162.86960994499998
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-5,5,32.573921989000006,162.86960994499998
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-6,6,32.573921989000006,162.86960994499998
+p7:c35,8,Heliothis subflexa x virescens,Nochoice,day0-7,7,32.573921989000006,162.86960994499998
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-1,1,5.410432597500001,27.052162987499997
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-2,2,16.045528233000002,80.227641165
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-3,3,26.527960795000002,132.63980397499998
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-4,4,32.86335514,164.3167757
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-5,5,32.86335514,164.3167757
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-6,6,32.86335514,164.3167757
+p7:c35,9,Heliothis subflexa x virescens,Nochoice,day0-7,7,32.86335514,164.3167757
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-1,1,6.179447465100001,30.8972373255
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-2,2,16.850646099000002,84.253230495
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-3,3,28.057642403000003,140.28821201499997
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-4,4,34.098160656000005,170.49080328
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-5,5,34.098160656000005,170.49080328
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-6,6,34.098160656000005,170.49080328
+p7:c35,10,Heliothis subflexa x virescens,Nochoice,day0-7,7,34.098160656000005,170.49080328
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-1,1,9.435066998,47.175334989999996
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-2,2,21.718628722000002,108.59314361
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-3,3,35.4949504,177.474752
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-4,4,49.524762154,247.62381076999998
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-5,5,54.572773080000005,272.86386539999995
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-6,6,54.572773080000005,272.86386539999995
+p7:c35,11,Heliothis subflexa x virescens,Nochoice,day0-7,7,54.572773080000005,272.86386539999995
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-1,1,6.250195270200001,31.250976351
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-2,2,17.401929776000003,87.00964888
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-3,3,33.250112777000005,166.250563885
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-4,4,49.717752854000004,248.58876426999998
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-5,5,56.57623220200001,282.88116100999997
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-6,6,56.57623220200001,282.88116100999997
+p7:c35,12,Heliothis subflexa x virescens,Nochoice,day0-7,7,56.57623220200001,282.88116100999997
+p35:c7 vs p14:c28,1,Heliothis subflexa x virescens,Choice,day0-1,1,36.429787613100004,28.193242780500004
+p35:c7 vs p14:c28,2,Heliothis subflexa x virescens,Choice,day0-1,1,34.0475628927,17.6650134171
+p35:c7 vs p14:c28,3,Heliothis subflexa x virescens,Choice,day0-1,1,33.2278115484,17.752286794200003
+p35:c7 vs p14:c28,4,Heliothis subflexa x virescens,Choice,day0-1,1,31.1616850174,20.496222042800003
+p35:c7 vs p14:c28,5,Heliothis subflexa x virescens,Choice,day0-1,1,31.915817054799998,18.4274672162
+p35:c7 vs p14:c28,6,Heliothis subflexa x virescens,Choice,day0-1,1,34.548156748,13.045327979600001
+p35:c7 vs p14:c28,7,Heliothis subflexa x virescens,Choice,day0-1,1,27.1442047114,13.873628568800003
+p35:c7 vs p14:c28,8,Heliothis subflexa x virescens,Choice,day0-1,1,26.0743241927,18.9039192727
+p35:c7 vs p14:c28,9,Heliothis subflexa x virescens,Choice,day0-1,1,28.6826351203,24.074386899500002
+p35:c7 vs p14:c28,10,Heliothis subflexa x virescens,Choice,day0-1,1,22.5543879015,4.510877580300001
+p35:c7 vs p14:c28,11,Heliothis subflexa x virescens,Choice,day0-1,1,41.1149783954,26.8593709468
+p35:c7 vs p14:c28,12,Heliothis subflexa x virescens,Choice,day0-1,1,31.835467573699997,15.6558530107
+p35:c7 vs p14:c28,1,Heliothis subflexa x virescens,Choice,day0-2,2,89.443634042,64.56314792200001
+p35:c7 vs p14:c28,2,Heliothis subflexa x virescens,Choice,day0-2,2,75.486174974,57.84772273
+p35:c7 vs p14:c28,3,Heliothis subflexa x virescens,Choice,day0-2,2,75.883429419,69.76709121900001
+p35:c7 vs p14:c28,4,Heliothis subflexa x virescens,Choice,day0-2,2,71.767017091,63.81579102500001
+p35:c7 vs p14:c28,5,Heliothis subflexa x virescens,Choice,day0-2,2,72.175727008,44.07087654200001
+p35:c7 vs p14:c28,6,Heliothis subflexa x virescens,Choice,day0-2,2,85.627662939,49.072990491
+p35:c7 vs p14:c28,7,Heliothis subflexa x virescens,Choice,day0-2,2,63.226560761,45.550660057
+p35:c7 vs p14:c28,8,Heliothis subflexa x virescens,Choice,day0-2,2,65.541126007,56.673035993
+p35:c7 vs p14:c28,9,Heliothis subflexa x virescens,Choice,day0-2,2,69.090527149,64.42841810300001
+p35:c7 vs p14:c28,10,Heliothis subflexa x virescens,Choice,day0-2,2,62.287597836799996,30.279342952600004
+p35:c7 vs p14:c28,11,Heliothis subflexa x virescens,Choice,day0-2,2,88.144070252,78.674000608
+p35:c7 vs p14:c28,12,Heliothis subflexa x virescens,Choice,day0-2,2,79.46857242099999,53.523240869
+p35:c7 vs p14:c28,1,Heliothis subflexa x virescens,Choice,day0-3,3,138.601639008,89.86503771000001
+p35:c7 vs p14:c28,2,Heliothis subflexa x virescens,Choice,day0-3,3,124.547582033,103.965037225
+p35:c7 vs p14:c28,3,Heliothis subflexa x virescens,Choice,day0-3,3,131.126400209,118.87610835100003
+p35:c7 vs p14:c28,4,Heliothis subflexa x virescens,Choice,day0-3,3,100.619283807,80.52528096900001
+p35:c7 vs p14:c28,5,Heliothis subflexa x virescens,Choice,day0-3,3,93.484232394,71.842984122
+p35:c7 vs p14:c28,6,Heliothis subflexa x virescens,Choice,day0-3,3,114.737288904,68.02314913800001
+p35:c7 vs p14:c28,7,Heliothis subflexa x virescens,Choice,day0-3,3,98.795087244,71.45810569800001
+p35:c7 vs p14:c28,8,Heliothis subflexa x virescens,Choice,day0-3,3,86.662465967,75.61674444100001
+p35:c7 vs p14:c28,9,Heliothis subflexa x virescens,Choice,day0-3,3,110.865701667,84.33565910700001
+p35:c7 vs p14:c28,10,Heliothis subflexa x virescens,Choice,day0-3,3,93.367529332,54.55319576000001
+p35:c7 vs p14:c28,11,Heliothis subflexa x virescens,Choice,day0-3,3,141.17036101,122.29872544400001
+p35:c7 vs p14:c28,12,Heliothis subflexa x virescens,Choice,day0-3,3,135.343175744,93.86887316800002
+p35:c7 vs p14:c28,1,Heliothis subflexa x virescens,Choice,day0-4,4,138.601639008,89.86503771000001
+p35:c7 vs p14:c28,2,Heliothis subflexa x virescens,Choice,day0-4,4,139.11684751299998,106.878890321
+p35:c7 vs p14:c28,3,Heliothis subflexa x virescens,Choice,day0-4,4,157.93257556999998,148.287941284
+p35:c7 vs p14:c28,4,Heliothis subflexa x virescens,Choice,day0-4,4,100.619283807,80.52528096900001
+p35:c7 vs p14:c28,5,Heliothis subflexa x virescens,Choice,day0-4,4,93.484232394,71.842984122
+p35:c7 vs p14:c28,6,Heliothis subflexa x virescens,Choice,day0-4,4,114.737288904,68.02314913800001
+p35:c7 vs p14:c28,7,Heliothis subflexa x virescens,Choice,day0-4,4,98.795087244,71.45810569800001
+p35:c7 vs p14:c28,8,Heliothis subflexa x virescens,Choice,day0-4,4,86.662465967,75.61674444100001
+p35:c7 vs p14:c28,9,Heliothis subflexa x virescens,Choice,day0-4,4,110.865701667,84.33565910700001
+p35:c7 vs p14:c28,10,Heliothis subflexa x virescens,Choice,day0-4,4,93.367529332,54.55319576000001
+p35:c7 vs p14:c28,11,Heliothis subflexa x virescens,Choice,day0-4,4,174.65708868299998,149.86576413900002
+p35:c7 vs p14:c28,12,Heliothis subflexa x virescens,Choice,day0-4,4,177.405606266,130.55139092800002

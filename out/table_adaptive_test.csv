@@ -1,0 +1,7 @@
+"objective","k","AICc","log10_lambda2_best","dnll_if_trait_dominates","LORO_pct"
+"maximise lifespan",3,49.95,6,25.18,72.8
+"maximise lifetimeegg",3,49.95,6,26.99,72.8
+"maximise dailyeggs",3,49.95,6,27.76,72.8
+"ING Iso+L1",4,-31.34,NA,NA,13.5
+"ING Aniso+L2",6,-34.37,NA,NA,14
+"ING Aniso+AsymPC+L2+Cap",9,-44.24,NA,NA,8.2

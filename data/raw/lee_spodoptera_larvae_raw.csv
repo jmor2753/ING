@@ -1,0 +1,979 @@
+treat,replicate,species,experiment,day,day2,protein,carb
+p35:c7,1,Spodoptera exempta,Nochoice,day0-1,1,11.3099945,2.2619989
+p35:c7,2,Spodoptera exempta,Nochoice,day0-1,1,6.295793,1.2591586
+p35:c7,3,Spodoptera exempta,Nochoice,day0-1,1,10.049207,2.0098414
+p35:c7,4,Spodoptera exempta,Nochoice,day0-1,1,8.5354115,1.7070823
+p35:c7,5,Spodoptera exempta,Nochoice,day0-1,1,7.159964,1.4319928
+p35:c7,6,Spodoptera exempta,Nochoice,day0-1,1,7.616378,1.5232756
+p35:c7,7,Spodoptera exempta,Nochoice,day0-1,1,9.952348,1.9904696
+p35:c7,8,Spodoptera exempta,Nochoice,day0-1,1,7.6215195,1.5243039
+p35:c7,9,Spodoptera exempta,Nochoice,day0-1,1,5.2507805,1.0501561
+p35:c7,10,Spodoptera exempta,Nochoice,day0-1,1,6.0209275,1.2041855
+p35:c7,11,Spodoptera exempta,Nochoice,day0-1,1,11.030957,2.2061914
+p35:c7,12,Spodoptera exempta,Nochoice,day0-1,1,8.8669875,1.7733975
+p35:c7,13,Spodoptera exempta,Nochoice,day0-1,1,10.8848565,2.1769713
+p35:c7,14,Spodoptera exempta,Nochoice,day0-1,1,7.2476495,1.4495299
+p35:c7,15,Spodoptera exempta,Nochoice,day0-1,1,5.1867165,1.0373433
+p35:c7,16,Spodoptera exempta,Nochoice,day0-1,1,7.1251775,1.4250355
+p35:c7,17,Spodoptera exempta,Nochoice,day0-1,1,9.149581,1.8299162
+p35:c7,18,Spodoptera exempta,Nochoice,day0-1,1,9.0497575,1.8099515
+p35:c7,19,Spodoptera exempta,Nochoice,day0-1,1,7.585823,1.5171646
+p35:c7,20,Spodoptera exempta,Nochoice,day0-1,1,6.9777645,1.3955529
+p35:c7,21,Spodoptera exempta,Nochoice,day0-1,1,6.949474,1.3898948
+p35:c7,22,Spodoptera exempta,Nochoice,day0-1,1,6.554086,1.3108172
+p35:c7,23,Spodoptera exempta,Nochoice,day0-1,1,7.5410545,1.5082109
+p35:c7,24,Spodoptera exempta,Nochoice,day0-1,1,8.865283,1.7730566
+p35:c7,25,Spodoptera exempta,Nochoice,day0-1,1,2.077642,0.4155284
+,,,,,,,
+p28:c14,1,Spodoptera exempta,Nochoice,day0-1,1,5.83970912,2.91985456
+p28:c14,2,Spodoptera exempta,Nochoice,day0-1,1,5.95446628,2.97723314
+p28:c14,3,Spodoptera exempta,Nochoice,day0-1,1,5.9121104,2.9560552
+p28:c14,4,Spodoptera exempta,Nochoice,day0-1,1,6.96988768,3.48494384
+p28:c14,5,Spodoptera exempta,Nochoice,day0-1,1,5.29611152,2.64805576
+p28:c14,6,Spodoptera exempta,Nochoice,day0-1,1,6.77502448,3.38751224
+p28:c14,7,Spodoptera exempta,Nochoice,day0-1,1,4.939046,2.469523
+p28:c14,8,Spodoptera exempta,Nochoice,day0-1,1,5.5087298,2.7543649
+p28:c14,9,Spodoptera exempta,Nochoice,day0-1,1,8.59771192,4.29885596
+p28:c14,10,Spodoptera exempta,Nochoice,day0-1,1,7.27209896,3.63604948
+p28:c14,11,Spodoptera exempta,Nochoice,day0-1,1,9.6812268,4.8406134
+p28:c14,12,Spodoptera exempta,Nochoice,day0-1,1,8.92656828,4.46328414
+,,,,,,,
+p21:c21,1,Spodoptera exempta,Nochoice,day0-1,1,4.47281625,4.47281625
+p21:c21,2,Spodoptera exempta,Nochoice,day0-1,1,4.47971979,4.47971979
+p21:c21,3,Spodoptera exempta,Nochoice,day0-1,1,4.45875381,4.45875381
+p21:c21,4,Spodoptera exempta,Nochoice,day0-1,1,3.67641393,3.67641393
+p21:c21,5,Spodoptera exempta,Nochoice,day0-1,1,4.99814595,4.99814595
+p21:c21,6,Spodoptera exempta,Nochoice,day0-1,1,6.03254757,6.03254757
+p21:c21,7,Spodoptera exempta,Nochoice,day0-1,1,5.75305248,5.75305248
+p21:c21,8,Spodoptera exempta,Nochoice,day0-1,1,5.19884694,5.19884694
+p21:c21,9,Spodoptera exempta,Nochoice,day0-1,1,5.95385553,5.95385553
+p21:c21,10,Spodoptera exempta,Nochoice,day0-1,1,4.03430538,4.03430538
+p21:c21,11,Spodoptera exempta,Nochoice,day0-1,1,6.68618559,6.68618559
+p21:c21,12,Spodoptera exempta,Nochoice,day0-1,1,9.08827626,9.08827626
+p21:c21,13,Spodoptera exempta,Nochoice,day0-1,1,3.6996435,3.6996435
+p21:c21,14,Spodoptera exempta,Nochoice,day0-1,1,3.95102652,3.95102652
+p21:c21,15,Spodoptera exempta,Nochoice,day0-1,1,4.14917454,4.14917454
+p21:c21,16,Spodoptera exempta,Nochoice,day0-1,1,4.45134606,4.45134606
+p21:c21,17,Spodoptera exempta,Nochoice,day0-1,1,3.65918805,3.65918805
+p21:c21,18,Spodoptera exempta,Nochoice,day0-1,1,3.76005231,3.76005231
+p21:c21,19,Spodoptera exempta,Nochoice,day0-1,1,3.66241113,3.66241113
+p21:c21,20,Spodoptera exempta,Nochoice,day0-1,1,4.79168823,4.79168823
+p21:c21,21,Spodoptera exempta,Nochoice,day0-1,1,7.3935288,7.3935288
+p21:c21,22,Spodoptera exempta,Nochoice,day0-1,1,5.72344059,5.72344059
+p21:c21,23,Spodoptera exempta,Nochoice,day0-1,1,6.40656282,6.40656282
+p21:c21,24,Spodoptera exempta,Nochoice,day0-1,1,6.79213017,6.79213017
+p21:c21,25,Spodoptera exempta,Nochoice,day0-1,1,8.34165402,8.34165402
+,,,,,,,
+p14:c28,1,Spodoptera exempta,Nochoice,day0-1,1,3.9976874,7.9953748
+p14:c28,2,Spodoptera exempta,Nochoice,day0-1,1,3.7399572,7.4799144
+p14:c28,3,Spodoptera exempta,Nochoice,day0-1,1,5.087236,10.174472
+p14:c28,4,Spodoptera exempta,Nochoice,day0-1,1,4.287724,8.575448
+p14:c28,5,Spodoptera exempta,Nochoice,day0-1,1,3.6259622,7.2519244
+p14:c28,6,Spodoptera exempta,Nochoice,day0-1,1,5.5560778,11.1121556
+p14:c28,7,Spodoptera exempta,Nochoice,day0-1,1,5.5616484,11.1232968
+p14:c28,8,Spodoptera exempta,Nochoice,day0-1,1,4.6166386,9.2332772
+p14:c28,9,Spodoptera exempta,Nochoice,day0-1,1,5.8748872,11.7497744
+p14:c28,10,Spodoptera exempta,Nochoice,day0-1,1,4.2005642,8.4011284
+p14:c28,11,Spodoptera exempta,Nochoice,day0-1,1,4.6781938,9.3563876
+p14:c28,12,Spodoptera exempta,Nochoice,day0-1,1,6.203596,12.407192
+,,,,,,,
+p7:c35,1,Spodoptera exempta,Nochoice,day0-1,1,2.36957448,11.8478724
+p7:c35,2,Spodoptera exempta,Nochoice,day0-1,1,2.18490195,10.92450975
+p7:c35,3,Spodoptera exempta,Nochoice,day0-1,1,1.95819736,9.7909868
+p7:c35,4,Spodoptera exempta,Nochoice,day0-1,1,1.65946263,8.29731315
+p7:c35,5,Spodoptera exempta,Nochoice,day0-1,1,2.18216852,10.9108426
+p7:c35,6,Spodoptera exempta,Nochoice,day0-1,1,2.05987971,10.29939855
+p7:c35,7,Spodoptera exempta,Nochoice,day0-1,1,2.47185204,12.3592602
+p7:c35,8,Spodoptera exempta,Nochoice,day0-1,1,1.52462226,7.6231113
+p7:c35,9,Spodoptera exempta,Nochoice,day0-1,1,2.49574297,12.47871485
+p7:c35,10,Spodoptera exempta,Nochoice,day0-1,1,2.55510962,12.7755481
+p7:c35,11,Spodoptera exempta,Nochoice,day0-1,1,3.69630604,18.4815302
+p7:c35,12,Spodoptera exempta,Nochoice,day0-1,1,2.8432474,14.216237
+p7:c35,13,Spodoptera exempta,Nochoice,day0-1,1,1.78626938,8.9313469
+p7:c35,14,Spodoptera exempta,Nochoice,day0-1,1,1.39853847,6.99269235
+p7:c35,15,Spodoptera exempta,Nochoice,day0-1,1,1.25407639,6.27038195
+p7:c35,16,Spodoptera exempta,Nochoice,day0-1,1,1.81289969,9.06449845
+p7:c35,17,Spodoptera exempta,Nochoice,day0-1,1,2.02323324,10.1161662
+p7:c35,18,Spodoptera exempta,Nochoice,day0-1,1,0.82557461,4.12787305
+p7:c35,19,Spodoptera exempta,Nochoice,day0-1,1,2.75866409,13.79332045
+p7:c35,20,Spodoptera exempta,Nochoice,day0-1,1,2.37982437,11.89912185
+p7:c35,21,Spodoptera exempta,Nochoice,day0-1,1,1.37402279,6.87011395
+p7:c35,22,Spodoptera exempta,Nochoice,day0-1,1,2.40702518,12.0351259
+p7:c35,23,Spodoptera exempta,Nochoice,day0-1,1,2.58774271,12.93871355
+p7:c35,24,Spodoptera exempta,Nochoice,day0-1,1,1.33679553,6.68397765
+p7:c35,25,Spodoptera exempta,Nochoice,day0-1,1,2.18094191,10.90470955
+,,,,,,,
+p35:c7,1,Spodoptera exempta,Nochoice,day0-2,2,20.8176395,4.1635279
+p35:c7,2,Spodoptera exempta,Nochoice,day0-2,2,18.194834,3.6389668
+p35:c7,3,Spodoptera exempta,Nochoice,day0-2,2,21.3701075,4.2740215
+p35:c7,4,Spodoptera exempta,Nochoice,day0-2,2,15.9169115,3.1833823
+p35:c7,5,Spodoptera exempta,Nochoice,day0-2,2,16.05457,3.210914
+p35:c7,6,Spodoptera exempta,Nochoice,day0-2,2,18.043732,3.6087464
+p35:c7,7,Spodoptera exempta,Nochoice,day0-2,2,21.3514665,4.2702933
+p35:c7,8,Spodoptera exempta,Nochoice,day0-2,2,21.452683,4.2905366
+p35:c7,9,Spodoptera exempta,Nochoice,day0-2,2,15.1185825,3.0237165
+p35:c7,10,Spodoptera exempta,Nochoice,day0-2,2,20.850613,4.1701226
+p35:c7,11,Spodoptera exempta,Nochoice,day0-2,2,24.554299,4.9108598
+p35:c7,12,Spodoptera exempta,Nochoice,day0-2,2,24.9876655,4.9975331
+p35:c7,13,Spodoptera exempta,Nochoice,day0-2,2,27.6487855,5.5297571
+p35:c7,14,Spodoptera exempta,Nochoice,day0-2,2,17.4639955,3.4927991
+p35:c7,15,Spodoptera exempta,Nochoice,day0-2,2,14.995295,2.999059
+p35:c7,16,Spodoptera exempta,Nochoice,day0-2,2,17.4110825,3.4822165
+p35:c7,17,Spodoptera exempta,Nochoice,day0-2,2,27.548871,5.5097742
+p35:c7,18,Spodoptera exempta,Nochoice,day0-2,2,18.0520095,3.6104019
+p35:c7,19,Spodoptera exempta,Nochoice,day0-2,2,17.68193,3.536386
+p35:c7,20,Spodoptera exempta,Nochoice,day0-2,2,14.8977465,2.9795493
+p35:c7,21,Spodoptera exempta,Nochoice,day0-2,2,16.622074,3.3244148
+p35:c7,22,Spodoptera exempta,Nochoice,day0-2,2,18.9806575,3.7961315
+p35:c7,23,Spodoptera exempta,Nochoice,day0-2,2,20.858005,4.171601
+p35:c7,24,Spodoptera exempta,Nochoice,day0-2,2,27.700645,5.540129
+p35:c7,25,Spodoptera exempta,Nochoice,day0-2,2,6.9643735,1.3928747
+,,,,,,,
+p28:c14,1,Spodoptera exempta,Nochoice,day0-2,2,19.4103868,9.7051934
+p28:c14,2,Spodoptera exempta,Nochoice,day0-2,2,17.10095296,8.55047648
+p28:c14,3,Spodoptera exempta,Nochoice,day0-2,2,22.62528968,11.31264484
+p28:c14,4,Spodoptera exempta,Nochoice,day0-2,2,21.61495644,10.80747822
+p28:c14,5,Spodoptera exempta,Nochoice,day0-2,2,18.27214256,9.13607128
+p28:c14,6,Spodoptera exempta,Nochoice,day0-2,2,20.00150152,10.00075076
+p28:c14,7,Spodoptera exempta,Nochoice,day0-2,2,17.90630856,8.95315428
+p28:c14,8,Spodoptera exempta,Nochoice,day0-2,2,17.04948,8.52474
+p28:c14,9,Spodoptera exempta,Nochoice,day0-2,2,25.84657264,12.92328632
+p28:c14,10,Spodoptera exempta,Nochoice,day0-2,2,24.934168,12.467084
+p28:c14,11,Spodoptera exempta,Nochoice,day0-2,2,25.38464068,12.69232034
+p28:c14,12,Spodoptera exempta,Nochoice,day0-2,2,23.8028504,11.9014252
+,,,,,,,
+p21:c21,1,Spodoptera exempta,Nochoice,day0-2,2,8.99735277,8.99735277
+p21:c21,2,Spodoptera exempta,Nochoice,day0-2,2,13.34446974,13.34446974
+p21:c21,3,Spodoptera exempta,Nochoice,day0-2,2,12.2882193,12.2882193
+p21:c21,4,Spodoptera exempta,Nochoice,day0-2,2,13.8394494,13.8394494
+p21:c21,5,Spodoptera exempta,Nochoice,day0-2,2,14.83096377,14.83096377
+p21:c21,6,Spodoptera exempta,Nochoice,day0-2,2,17.05010496,17.05010496
+p21:c21,7,Spodoptera exempta,Nochoice,day0-2,2,16.14648798,16.14648798
+p21:c21,8,Spodoptera exempta,Nochoice,day0-2,2,17.14587609,17.14587609
+p21:c21,9,Spodoptera exempta,Nochoice,day0-2,2,15.32787942,15.32787942
+p21:c21,10,Spodoptera exempta,Nochoice,day0-2,2,11.02014144,11.02014144
+p21:c21,11,Spodoptera exempta,Nochoice,day0-2,2,18.07498623,18.07498623
+p21:c21,12,Spodoptera exempta,Nochoice,day0-2,2,20.96922702,20.96922702
+p21:c21,13,Spodoptera exempta,Nochoice,day0-2,2,11.705589,11.705589
+p21:c21,14,Spodoptera exempta,Nochoice,day0-2,2,8.5481025,8.5481025
+p21:c21,15,Spodoptera exempta,Nochoice,day0-2,2,15.63399096,15.63399096
+p21:c21,16,Spodoptera exempta,Nochoice,day0-2,2,12.0279159,12.0279159
+p21:c21,17,Spodoptera exempta,Nochoice,day0-2,2,12.68862987,12.68862987
+p21:c21,18,Spodoptera exempta,Nochoice,day0-2,2,13.42354902,13.42354902
+p21:c21,19,Spodoptera exempta,Nochoice,day0-2,2,14.46279051,14.46279051
+p21:c21,20,Spodoptera exempta,Nochoice,day0-2,2,12.73959498,12.73959498
+p21:c21,21,Spodoptera exempta,Nochoice,day0-2,2,17.62395957,17.62395957
+p21:c21,22,Spodoptera exempta,Nochoice,day0-2,2,15.65650569,15.65650569
+p21:c21,23,Spodoptera exempta,Nochoice,day0-2,2,17.20764213,17.20764213
+p21:c21,24,Spodoptera exempta,Nochoice,day0-2,2,19.27734522,19.27734522
+p21:c21,25,Spodoptera exempta,Nochoice,day0-2,2,20.8651716,20.8651716
+,,,,,,,
+p14:c28,1,Spodoptera exempta,Nochoice,day0-2,2,11.6117344,23.2234688
+p14:c28,2,Spodoptera exempta,Nochoice,day0-2,2,10.6294538,21.2589076
+p14:c28,3,Spodoptera exempta,Nochoice,day0-2,2,14.5165314,29.0330628
+p14:c28,4,Spodoptera exempta,Nochoice,day0-2,2,13.6819074,27.3638148
+p14:c28,5,Spodoptera exempta,Nochoice,day0-2,2,9.9466864,19.8933728
+p14:c28,6,Spodoptera exempta,Nochoice,day0-2,2,14.9518376,29.9036752
+p14:c28,7,Spodoptera exempta,Nochoice,day0-2,2,14.2903838,28.5807676
+p14:c28,8,Spodoptera exempta,Nochoice,day0-2,2,14.3500392,28.7000784
+p14:c28,9,Spodoptera exempta,Nochoice,day0-2,2,16.1284158,32.2568316
+p14:c28,10,Spodoptera exempta,Nochoice,day0-2,2,13.2657532,26.5315064
+p14:c28,11,Spodoptera exempta,Nochoice,day0-2,2,12.0162882,24.0325764
+p14:c28,12,Spodoptera exempta,Nochoice,day0-2,2,15.8417644,31.6835288
+,,,,,,,
+p7:c35,1,Spodoptera exempta,Nochoice,day0-2,2,5.27284373,26.36421865
+p7:c35,2,Spodoptera exempta,Nochoice,day0-2,2,3.9713982,19.856991
+p7:c35,3,Spodoptera exempta,Nochoice,day0-2,2,5.99590089,29.97950445
+p7:c35,4,Spodoptera exempta,Nochoice,day0-2,2,4.75274604,23.7637302
+p7:c35,5,Spodoptera exempta,Nochoice,day0-2,2,5.93925577,29.69627885
+p7:c35,6,Spodoptera exempta,Nochoice,day0-2,2,5.66241249,28.31206245
+p7:c35,7,Spodoptera exempta,Nochoice,day0-2,2,6.71483274,33.5741637
+p7:c35,8,Spodoptera exempta,Nochoice,day0-2,2,5.05866781,25.29333905
+p7:c35,9,Spodoptera exempta,Nochoice,day0-2,2,5.91633756,29.5816878
+p7:c35,10,Spodoptera exempta,Nochoice,day0-2,2,6.49139911,32.45699555
+p7:c35,11,Spodoptera exempta,Nochoice,day0-2,2,9.28239116,46.4119558
+p7:c35,12,Spodoptera exempta,Nochoice,day0-2,2,7.99884729,39.99423645
+p7:c35,13,Spodoptera exempta,Nochoice,day0-2,2,5.6168105,28.0840525
+p7:c35,14,Spodoptera exempta,Nochoice,day0-2,2,3.35856178,16.7928089
+p7:c35,15,Spodoptera exempta,Nochoice,day0-2,2,3.57345814,17.8672907
+p7:c35,16,Spodoptera exempta,Nochoice,day0-2,2,4.72749732,23.6374866
+p7:c35,17,Spodoptera exempta,Nochoice,day0-2,2,5.66712776,28.3356388
+p7:c35,18,Spodoptera exempta,Nochoice,day0-2,2,2.80532987,14.02664935
+p7:c35,19,Spodoptera exempta,Nochoice,day0-2,2,7.34172341,36.70861705
+p7:c35,20,Spodoptera exempta,Nochoice,day0-2,2,6.48613028,32.4306514
+p7:c35,21,Spodoptera exempta,Nochoice,day0-2,2,5.37685246,26.8842623
+p7:c35,22,Spodoptera exempta,Nochoice,day0-2,2,6.58377979,32.91889895
+p7:c35,23,Spodoptera exempta,Nochoice,day0-2,2,7.12370673,35.61853365
+p7:c35,24,Spodoptera exempta,Nochoice,day0-2,2,5.53992474,27.6996237
+p7:c35,25,Spodoptera exempta,Nochoice,day0-2,2,5.97938747,29.89693735
+,,,,,,,
+p35:c7,1,Spodoptera exempta,Nochoice,day0-3,3,36.254792,7.2509584
+p35:c7,2,Spodoptera exempta,Nochoice,day0-3,3,37.5789575,7.5157915
+p35:c7,3,Spodoptera exempta,Nochoice,day0-3,3,40.1992605,8.0398521
+p35:c7,4,Spodoptera exempta,Nochoice,day0-3,3,26.537518,5.3075036
+p35:c7,5,Spodoptera exempta,Nochoice,day0-3,3,32.7954725,6.5590945
+p35:c7,6,Spodoptera exempta,Nochoice,day0-3,3,34.6547565,6.9309513
+p35:c7,7,Spodoptera exempta,Nochoice,day0-3,3,39.60719,7.921438
+p35:c7,8,Spodoptera exempta,Nochoice,day0-3,3,42.6117265,8.5223453
+p35:c7,9,Spodoptera exempta,Nochoice,day0-3,3,37.242499,7.4484998
+p35:c7,10,Spodoptera exempta,Nochoice,day0-3,3,45.9365375,9.1873075
+p35:c7,11,Spodoptera exempta,Nochoice,day0-3,3,38.1948805,7.6389761
+p35:c7,12,Spodoptera exempta,Nochoice,day0-3,3,45.6042055,9.1208411
+p35:c7,13,Spodoptera exempta,Nochoice,day0-3,3,44.2432795,8.8486559
+p35:c7,14,Spodoptera exempta,Nochoice,day0-3,3,36.883651,7.3767302
+p35:c7,15,Spodoptera exempta,Nochoice,day0-3,3,31.651606,6.3303212
+p35:c7,16,Spodoptera exempta,Nochoice,day0-3,3,32.933033,6.5866066
+p35:c7,17,Spodoptera exempta,Nochoice,day0-3,3,50.0232005,10.0046401
+p35:c7,18,Spodoptera exempta,Nochoice,day0-3,3,38.1338825,7.6267765
+p35:c7,19,Spodoptera exempta,Nochoice,day0-3,3,33.7688855,6.7537771
+p35:c7,20,Spodoptera exempta,Nochoice,day0-3,3,24.855887,4.9711774
+p35:c7,21,Spodoptera exempta,Nochoice,day0-3,3,30.413579,6.0827158
+p35:c7,22,Spodoptera exempta,Nochoice,day0-3,3,29.632078,5.9264156
+p35:c7,23,Spodoptera exempta,Nochoice,day0-3,3,37.6530315,7.5306063
+p35:c7,24,Spodoptera exempta,Nochoice,day0-3,3,46.663638,9.3327276
+p35:c7,25,Spodoptera exempta,Nochoice,day0-3,3,12.6716625,2.5343325
+,,,,,,,
+p28:c14,1,Spodoptera exempta,Nochoice,day0-3,3,36.98224096,18.49112048
+p28:c14,2,Spodoptera exempta,Nochoice,day0-3,3,34.98193384,17.49096692
+p28:c14,3,Spodoptera exempta,Nochoice,day0-3,3,44.7515264,22.3757632
+p28:c14,4,Spodoptera exempta,Nochoice,day0-3,3,38.75945332,19.37972666
+p28:c14,5,Spodoptera exempta,Nochoice,day0-3,3,35.90048924,17.95024462
+p28:c14,6,Spodoptera exempta,Nochoice,day0-3,3,38.60313072,19.30156536
+p28:c14,7,Spodoptera exempta,Nochoice,day0-3,3,36.05689948,18.02844974
+p28:c14,8,Spodoptera exempta,Nochoice,day0-3,3,36.49888816,18.24944408
+p28:c14,9,Spodoptera exempta,Nochoice,day0-3,3,44.40881452,22.20440726
+p28:c14,10,Spodoptera exempta,Nochoice,day0-3,3,44.12570764,22.06285382
+p28:c14,11,Spodoptera exempta,Nochoice,day0-3,3,44.38555184,22.19277592
+p28:c14,12,Spodoptera exempta,Nochoice,day0-3,3,36.77166696,18.38583348
+,,,,,,,
+p21:c21,1,Spodoptera exempta,Nochoice,day0-3,3,21.5958351,21.5958351
+p21:c21,2,Spodoptera exempta,Nochoice,day0-3,3,25.08616866,25.08616866
+p21:c21,3,Spodoptera exempta,Nochoice,day0-3,3,24.68448591,24.68448591
+p21:c21,4,Spodoptera exempta,Nochoice,day0-3,3,26.34592401,26.34592401
+p21:c21,5,Spodoptera exempta,Nochoice,day0-3,3,28.07036631,28.07036631
+p21:c21,6,Spodoptera exempta,Nochoice,day0-3,3,30.33019059,30.33019059
+p21:c21,7,Spodoptera exempta,Nochoice,day0-3,3,32.22219672,32.22219672
+p21:c21,8,Spodoptera exempta,Nochoice,day0-3,3,32.27580405,32.27580405
+p21:c21,9,Spodoptera exempta,Nochoice,day0-3,3,29.99271198,29.99271198
+p21:c21,10,Spodoptera exempta,Nochoice,day0-3,3,21.19002942,21.19002942
+p21:c21,11,Spodoptera exempta,Nochoice,day0-3,3,32.00211693,32.00211693
+p21:c21,12,Spodoptera exempta,Nochoice,day0-3,3,36.56709483,36.56709483
+p21:c21,13,Spodoptera exempta,Nochoice,day0-3,3,21.37870602,21.37870602
+p21:c21,14,Spodoptera exempta,Nochoice,day0-3,3,14.34896715,14.34896715
+p21:c21,15,Spodoptera exempta,Nochoice,day0-3,3,32.34176757,32.34176757
+p21:c21,16,Spodoptera exempta,Nochoice,day0-3,3,25.07088297,25.07088297
+p21:c21,17,Spodoptera exempta,Nochoice,day0-3,3,25.0507404,25.0507404
+p21:c21,18,Spodoptera exempta,Nochoice,day0-3,3,23.85269796,23.85269796
+p21:c21,19,Spodoptera exempta,Nochoice,day0-3,3,31.14162324,31.14162324
+p21:c21,20,Spodoptera exempta,Nochoice,day0-3,3,23.93849787,23.93849787
+p21:c21,21,Spodoptera exempta,Nochoice,day0-3,3,31.92521829,31.92521829
+p21:c21,22,Spodoptera exempta,Nochoice,day0-3,3,29.14885491,29.14885491
+p21:c21,23,Spodoptera exempta,Nochoice,day0-3,3,33.93401046,33.93401046
+p21:c21,24,Spodoptera exempta,Nochoice,day0-3,3,32.40045102,32.40045102
+p21:c21,25,Spodoptera exempta,Nochoice,day0-3,3,35.06447049,35.06447049
+,,,,,,,
+p14:c28,1,Spodoptera exempta,Nochoice,day0-3,3,21.3615178,42.7230356
+p14:c28,2,Spodoptera exempta,Nochoice,day0-3,3,18.5859464,37.1718928
+p14:c28,3,Spodoptera exempta,Nochoice,day0-3,3,24.6081248,49.2162496
+p14:c28,4,Spodoptera exempta,Nochoice,day0-3,3,24.532368,49.064736
+p14:c28,5,Spodoptera exempta,Nochoice,day0-3,3,18.8010256,37.6020512
+p14:c28,6,Spodoptera exempta,Nochoice,day0-3,3,25.2249746,50.4499492
+p14:c28,7,Spodoptera exempta,Nochoice,day0-3,3,24.0447704,48.0895408
+p14:c28,8,Spodoptera exempta,Nochoice,day0-3,3,22.902992,45.805984
+p14:c28,9,Spodoptera exempta,Nochoice,day0-3,3,26.8453948,53.6907896
+p14:c28,10,Spodoptera exempta,Nochoice,day0-3,3,24.755283,49.510566
+p14:c28,11,Spodoptera exempta,Nochoice,day0-3,3,19.6827484,39.3654968
+p14:c28,12,Spodoptera exempta,Nochoice,day0-3,3,27.3908656,54.7817312
+,,,,,,,
+p7:c35,1,Spodoptera exempta,Nochoice,day0-3,3,9.77595969,48.87979845
+p7:c35,2,Spodoptera exempta,Nochoice,day0-3,3,8.41624203,42.08121015
+p7:c35,3,Spodoptera exempta,Nochoice,day0-3,3,10.86325471,54.31627355
+p7:c35,4,Spodoptera exempta,Nochoice,day0-3,3,8.66860946,43.3430473
+p7:c35,5,Spodoptera exempta,Nochoice,day0-3,3,10.410862,52.05431
+p7:c35,6,Spodoptera exempta,Nochoice,day0-3,3,9.85863991,49.29319955
+p7:c35,7,Spodoptera exempta,Nochoice,day0-3,3,11.35868517,56.79342585
+p7:c35,8,Spodoptera exempta,Nochoice,day0-3,3,9.96116219,49.80581095
+p7:c35,9,Spodoptera exempta,Nochoice,day0-3,3,10.3496694,51.748347
+p7:c35,10,Spodoptera exempta,Nochoice,day0-3,3,11.46608435,57.33042175
+p7:c35,11,Spodoptera exempta,Nochoice,day0-3,3,15.60201937,78.01009685
+p7:c35,12,Spodoptera exempta,Nochoice,day0-3,3,14.05231891,70.26159455
+p7:c35,13,Spodoptera exempta,Nochoice,day0-3,3,10.36919716,51.8459858
+p7:c35,14,Spodoptera exempta,Nochoice,day0-3,3,6.1463213,30.7316065
+p7:c35,15,Spodoptera exempta,Nochoice,day0-3,3,7.45370276,37.2685138
+p7:c35,16,Spodoptera exempta,Nochoice,day0-3,3,8.98471084,44.9235542
+p7:c35,17,Spodoptera exempta,Nochoice,day0-3,3,10.20491269,51.02456345
+p7:c35,18,Spodoptera exempta,Nochoice,day0-3,3,5.84270554,29.2135277
+p7:c35,19,Spodoptera exempta,Nochoice,day0-3,3,12.57066545,62.85332725
+p7:c35,20,Spodoptera exempta,Nochoice,day0-3,3,11.24414221,56.22071105
+p7:c35,21,Spodoptera exempta,Nochoice,day0-3,3,9.42600204,47.1300102
+p7:c35,22,Spodoptera exempta,Nochoice,day0-3,3,11.34905751,56.74528755
+p7:c35,23,Spodoptera exempta,Nochoice,day0-3,3,11.17369603,55.86848015
+p7:c35,24,Spodoptera exempta,Nochoice,day0-3,3,10.55463066,52.7731533
+p7:c35,25,Spodoptera exempta,Nochoice,day0-3,3,10.3908448,51.954224
+,,,,,,,
+p35:c7,1,Spodoptera exempta,Nochoice,day0-4,4,52.10401,10.420802
+p35:c7,2,Spodoptera exempta,Nochoice,day0-4,4,56.72044,11.344088
+p35:c7,3,Spodoptera exempta,Nochoice,day0-4,4,58.6840905,11.7368181
+p35:c7,4,Spodoptera exempta,Nochoice,day0-4,4,34.8880945,6.9776189
+p35:c7,5,Spodoptera exempta,Nochoice,day0-4,4,48.755952,9.7511904
+p35:c7,6,Spodoptera exempta,Nochoice,day0-4,4,53.2942655,10.6588531
+p35:c7,7,Spodoptera exempta,Nochoice,day0-4,4,58.534952,11.7069904
+p35:c7,8,Spodoptera exempta,Nochoice,day0-4,4,61.4868975,12.2973795
+p35:c7,9,Spodoptera exempta,Nochoice,day0-4,4,55.89885,11.17977
+p35:c7,10,Spodoptera exempta,Nochoice,day0-4,4,60.47195,12.09439
+p35:c7,11,Spodoptera exempta,Nochoice,day0-4,4,38.1948805,7.6389761
+p35:c7,12,Spodoptera exempta,Nochoice,day0-4,4,45.6042055,9.1208411
+p35:c7,13,Spodoptera exempta,Nochoice,day0-4,4,57.703926,11.5407852
+p35:c7,14,Spodoptera exempta,Nochoice,day0-4,4,56.1044435,11.2208887
+p35:c7,15,Spodoptera exempta,Nochoice,day0-4,4,51.293872,10.2587744
+p35:c7,16,Spodoptera exempta,Nochoice,day0-4,4,46.7703495,9.3540699
+p35:c7,17,Spodoptera exempta,Nochoice,day0-4,4,64.867369,12.9734738
+p35:c7,18,Spodoptera exempta,Nochoice,day0-4,4,52.8380405,10.5676081
+p35:c7,19,Spodoptera exempta,Nochoice,day0-4,4,49.280721,9.8561442
+p35:c7,20,Spodoptera exempta,Nochoice,day0-4,4,36.5561875,7.3112375
+p35:c7,21,Spodoptera exempta,Nochoice,day0-4,4,47.435059,9.4870118
+p35:c7,22,Spodoptera exempta,Nochoice,day0-4,4,42.5003005,8.5000601
+p35:c7,23,Spodoptera exempta,Nochoice,day0-4,4,53.1349245,10.6269849
+p35:c7,24,Spodoptera exempta,Nochoice,day0-4,4,46.663638,9.3327276
+p35:c7,25,Spodoptera exempta,Nochoice,day0-4,4,18.599728,3.7199456
+,,,,,,,
+p28:c14,1,Spodoptera exempta,Nochoice,day0-4,4,51.03019488,25.51509744
+p28:c14,2,Spodoptera exempta,Nochoice,day0-4,4,48.30571088,24.15285544
+p28:c14,3,Spodoptera exempta,Nochoice,day0-4,4,60.76040236,30.38020118
+p28:c14,4,Spodoptera exempta,Nochoice,day0-4,4,53.33071072,26.66535536
+p28:c14,5,Spodoptera exempta,Nochoice,day0-4,4,50.83030316,25.41515158
+p28:c14,6,Spodoptera exempta,Nochoice,day0-4,4,54.9014802,27.4507401
+p28:c14,7,Spodoptera exempta,Nochoice,day0-4,4,51.86928292,25.93464146
+p28:c14,8,Spodoptera exempta,Nochoice,day0-4,4,36.49888816,18.24944408
+p28:c14,9,Spodoptera exempta,Nochoice,day0-4,4,44.40881452,22.20440726
+p28:c14,10,Spodoptera exempta,Nochoice,day0-4,4,44.12570764,22.06285382
+p28:c14,11,Spodoptera exempta,Nochoice,day0-4,4,44.38555184,22.19277592
+p28:c14,12,Spodoptera exempta,Nochoice,day0-4,4,36.77166696,18.38583348
+,,,,,,,
+p21:c21,1,Spodoptera exempta,Nochoice,day0-4,4,32.46433743,32.46433743
+p21:c21,2,Spodoptera exempta,Nochoice,day0-4,4,34.70116608,34.70116608
+p21:c21,3,Spodoptera exempta,Nochoice,day0-4,4,24.68448591,24.68448591
+p21:c21,4,Spodoptera exempta,Nochoice,day0-4,4,39.07014258,39.07014258
+p21:c21,5,Spodoptera exempta,Nochoice,day0-4,4,39.58234812,39.58234812
+p21:c21,6,Spodoptera exempta,Nochoice,day0-4,4,41.07241635,41.07241635
+p21:c21,7,Spodoptera exempta,Nochoice,day0-4,4,43.46945001,43.46945001
+p21:c21,8,Spodoptera exempta,Nochoice,day0-4,4,44.53740564,44.53740564
+p21:c21,9,Spodoptera exempta,Nochoice,day0-4,4,43.12232778,43.12232778
+p21:c21,10,Spodoptera exempta,Nochoice,day0-4,4,30.36534585,30.36534585
+p21:c21,11,Spodoptera exempta,Nochoice,day0-4,4,43.44211872,43.44211872
+p21:c21,12,Spodoptera exempta,Nochoice,day0-4,4,36.56709483,36.56709483
+p21:c21,13,Spodoptera exempta,Nochoice,day0-4,4,30.84886917,30.84886917
+p21:c21,14,Spodoptera exempta,Nochoice,day0-4,4,20.69718063,20.69718063
+p21:c21,15,Spodoptera exempta,Nochoice,day0-4,4,45.2638746,45.2638746
+p21:c21,16,Spodoptera exempta,Nochoice,day0-4,4,36.53555682,36.53555682
+p21:c21,17,Spodoptera exempta,Nochoice,day0-4,4,34.72054929,34.72054929
+p21:c21,18,Spodoptera exempta,Nochoice,day0-4,4,34.34860611,34.34860611
+p21:c21,19,Spodoptera exempta,Nochoice,day0-4,4,45.11853402,45.11853402
+p21:c21,20,Spodoptera exempta,Nochoice,day0-4,4,34.99425993,34.99425993
+p21:c21,21,Spodoptera exempta,Nochoice,day0-4,4,42.26798877,42.26798877
+p21:c21,22,Spodoptera exempta,Nochoice,day0-4,4,40.10492283,40.10492283
+p21:c21,23,Spodoptera exempta,Nochoice,day0-4,4,46.96279602,46.96279602
+p21:c21,24,Spodoptera exempta,Nochoice,day0-4,4,32.40045102,32.40045102
+p21:c21,25,Spodoptera exempta,Nochoice,day0-4,4,35.06447049,35.06447049
+,,,,,,,
+p14:c28,1,Spodoptera exempta,Nochoice,day0-4,4,27.6222814,55.2445628
+p14:c28,2,Spodoptera exempta,Nochoice,day0-4,4,25.650079,51.300158
+p14:c28,3,Spodoptera exempta,Nochoice,day0-4,4,31.6922424,63.3844848
+p14:c28,4,Spodoptera exempta,Nochoice,day0-4,4,32.1377182,64.2754364
+p14:c28,5,Spodoptera exempta,Nochoice,day0-4,4,25.6408992,51.2817984
+p14:c28,6,Spodoptera exempta,Nochoice,day0-4,4,31.9856376,63.9712752
+p14:c28,7,Spodoptera exempta,Nochoice,day0-4,4,30.55479,61.10958
+p14:c28,8,Spodoptera exempta,Nochoice,day0-4,4,29.2484864,58.4969728
+p14:c28,9,Spodoptera exempta,Nochoice,day0-4,4,33.8827608,67.7655216
+p14:c28,10,Spodoptera exempta,Nochoice,day0-4,4,33.1084054,66.2168108
+p14:c28,11,Spodoptera exempta,Nochoice,day0-4,4,19.6827484,39.3654968
+p14:c28,12,Spodoptera exempta,Nochoice,day0-4,4,34.2138832,68.4277664
+,,,,,,,
+p7:c35,1,Spodoptera exempta,Nochoice,day0-4,4,13.19992093,65.99960465
+p7:c35,2,Spodoptera exempta,Nochoice,day0-4,4,11.3360856,56.680428
+p7:c35,3,Spodoptera exempta,Nochoice,day0-4,4,14.95035017,74.75175085
+p7:c35,4,Spodoptera exempta,Nochoice,day0-4,4,12.86255124,64.3127562
+p7:c35,5,Spodoptera exempta,Nochoice,day0-4,4,15.58630556,77.9315278
+p7:c35,6,Spodoptera exempta,Nochoice,day0-4,4,14.00732676,70.0366338
+p7:c35,7,Spodoptera exempta,Nochoice,day0-4,4,14.73222086,73.6611043
+p7:c35,8,Spodoptera exempta,Nochoice,day0-4,4,15.1874681,75.9373405
+p7:c35,9,Spodoptera exempta,Nochoice,day0-4,4,15.01726716,75.0863358
+p7:c35,10,Spodoptera exempta,Nochoice,day0-4,4,15.63265935,78.16329675
+p7:c35,11,Spodoptera exempta,Nochoice,day0-4,4,18.55665301,92.78326505
+p7:c35,12,Spodoptera exempta,Nochoice,day0-4,4,18.77689947,93.88449735
+p7:c35,13,Spodoptera exempta,Nochoice,day0-4,4,14.42114198,72.1057099
+p7:c35,14,Spodoptera exempta,Nochoice,day0-4,4,9.29455163,46.47275815
+p7:c35,15,Spodoptera exempta,Nochoice,day0-4,4,11.36269827,56.81349135
+p7:c35,16,Spodoptera exempta,Nochoice,day0-4,4,14.05945142,70.2972571
+p7:c35,17,Spodoptera exempta,Nochoice,day0-4,4,15.1379221,75.6896105
+p7:c35,18,Spodoptera exempta,Nochoice,day0-4,4,9.85613811,49.28069055
+p7:c35,19,Spodoptera exempta,Nochoice,day0-4,4,15.82936698,79.1468349
+p7:c35,20,Spodoptera exempta,Nochoice,day0-4,4,16.51279861,82.56399305
+p7:c35,21,Spodoptera exempta,Nochoice,day0-4,4,12.66682046,63.3341023
+p7:c35,22,Spodoptera exempta,Nochoice,day0-4,4,16.27381147,81.36905735
+p7:c35,23,Spodoptera exempta,Nochoice,day0-4,4,15.25042827,76.25214135
+p7:c35,24,Spodoptera exempta,Nochoice,day0-4,4,15.52590851,77.62954255
+p7:c35,25,Spodoptera exempta,Nochoice,day0-4,4,13.8008255,69.0041275
+,,,,,,,
+p35:c7,1,Spodoptera exempta,Nochoice,day0-5,5,52.10401,10.420802
+p35:c7,2,Spodoptera exempta,Nochoice,day0-5,5,56.72044,11.344088
+p35:c7,3,Spodoptera exempta,Nochoice,day0-5,5,58.6840905,11.7368181
+p35:c7,4,Spodoptera exempta,Nochoice,day0-5,5,34.8880945,6.9776189
+p35:c7,5,Spodoptera exempta,Nochoice,day0-5,5,48.755952,9.7511904
+p35:c7,6,Spodoptera exempta,Nochoice,day0-5,5,53.2942655,10.6588531
+p35:c7,7,Spodoptera exempta,Nochoice,day0-5,5,58.534952,11.7069904
+p35:c7,8,Spodoptera exempta,Nochoice,day0-5,5,61.4868975,12.2973795
+p35:c7,9,Spodoptera exempta,Nochoice,day0-5,5,55.89885,11.17977
+p35:c7,10,Spodoptera exempta,Nochoice,day0-5,5,60.47195,12.09439
+p35:c7,11,Spodoptera exempta,Nochoice,day0-5,5,38.1948805,7.6389761
+p35:c7,12,Spodoptera exempta,Nochoice,day0-5,5,45.6042055,9.1208411
+p35:c7,13,Spodoptera exempta,Nochoice,day0-5,5,57.703926,11.5407852
+p35:c7,14,Spodoptera exempta,Nochoice,day0-5,5,56.1044435,11.2208887
+p35:c7,15,Spodoptera exempta,Nochoice,day0-5,5,51.293872,10.2587744
+p35:c7,16,Spodoptera exempta,Nochoice,day0-5,5,46.7703495,9.3540699
+p35:c7,17,Spodoptera exempta,Nochoice,day0-5,5,64.867369,12.9734738
+p35:c7,18,Spodoptera exempta,Nochoice,day0-5,5,52.8380405,10.5676081
+p35:c7,19,Spodoptera exempta,Nochoice,day0-5,5,49.280721,9.8561442
+p35:c7,20,Spodoptera exempta,Nochoice,day0-5,5,36.5561875,7.3112375
+p35:c7,21,Spodoptera exempta,Nochoice,day0-5,5,47.435059,9.4870118
+p35:c7,22,Spodoptera exempta,Nochoice,day0-5,5,42.5003005,8.5000601
+p35:c7,23,Spodoptera exempta,Nochoice,day0-5,5,53.1349245,10.6269849
+p35:c7,24,Spodoptera exempta,Nochoice,day0-5,5,46.663638,9.3327276
+p35:c7,25,Spodoptera exempta,Nochoice,day0-5,5,26.1229374,5.22458748
+,,,,,,,
+p28:c14,1,Spodoptera exempta,Nochoice,day0-5,5,51.03019488,25.51509744
+p28:c14,2,Spodoptera exempta,Nochoice,day0-5,5,48.30571088,24.15285544
+p28:c14,3,Spodoptera exempta,Nochoice,day0-5,5,60.76040236,30.38020118
+p28:c14,4,Spodoptera exempta,Nochoice,day0-5,5,53.33071072,26.66535536
+p28:c14,5,Spodoptera exempta,Nochoice,day0-5,5,50.83030316,25.41515158
+p28:c14,6,Spodoptera exempta,Nochoice,day0-5,5,54.9014802,27.4507401
+p28:c14,7,Spodoptera exempta,Nochoice,day0-5,5,51.86928292,25.93464146
+p28:c14,8,Spodoptera exempta,Nochoice,day0-5,5,36.49888816,18.24944408
+p28:c14,9,Spodoptera exempta,Nochoice,day0-5,5,44.40881452,22.20440726
+p28:c14,10,Spodoptera exempta,Nochoice,day0-5,5,44.12570764,22.06285382
+p28:c14,11,Spodoptera exempta,Nochoice,day0-5,5,44.38555184,22.19277592
+p28:c14,12,Spodoptera exempta,Nochoice,day0-5,5,36.77166696,18.38583348
+,,,,,,,
+p21:c21,1,Spodoptera exempta,Nochoice,day0-5,5,32.46433743,32.46433743
+p21:c21,2,Spodoptera exempta,Nochoice,day0-5,5,34.70116608,34.70116608
+p21:c21,3,Spodoptera exempta,Nochoice,day0-5,5,24.68448591,24.68448591
+p21:c21,4,Spodoptera exempta,Nochoice,day0-5,5,39.07014258,39.07014258
+p21:c21,5,Spodoptera exempta,Nochoice,day0-5,5,39.58234812,39.58234812
+p21:c21,6,Spodoptera exempta,Nochoice,day0-5,5,41.07241635,41.07241635
+p21:c21,7,Spodoptera exempta,Nochoice,day0-5,5,43.46945001,43.46945001
+p21:c21,8,Spodoptera exempta,Nochoice,day0-5,5,44.53740564,44.53740564
+p21:c21,9,Spodoptera exempta,Nochoice,day0-5,5,43.12232778,43.12232778
+p21:c21,10,Spodoptera exempta,Nochoice,day0-5,5,30.36534585,30.36534585
+p21:c21,11,Spodoptera exempta,Nochoice,day0-5,5,43.44211872,43.44211872
+p21:c21,12,Spodoptera exempta,Nochoice,day0-5,5,36.56709483,36.56709483
+p21:c21,13,Spodoptera exempta,Nochoice,day0-5,5,30.84886917,30.84886917
+p21:c21,14,Spodoptera exempta,Nochoice,day0-5,5,20.69718063,20.69718063
+p21:c21,15,Spodoptera exempta,Nochoice,day0-5,5,45.2638746,45.2638746
+p21:c21,16,Spodoptera exempta,Nochoice,day0-5,5,36.53555682,36.53555682
+p21:c21,17,Spodoptera exempta,Nochoice,day0-5,5,34.72054929,34.72054929
+p21:c21,18,Spodoptera exempta,Nochoice,day0-5,5,34.34860611,34.34860611
+p21:c21,19,Spodoptera exempta,Nochoice,day0-5,5,45.11853402,45.11853402
+p21:c21,20,Spodoptera exempta,Nochoice,day0-5,5,34.99425993,34.99425993
+p21:c21,21,Spodoptera exempta,Nochoice,day0-5,5,42.26798877,42.26798877
+p21:c21,22,Spodoptera exempta,Nochoice,day0-5,5,40.10492283,40.10492283
+p21:c21,23,Spodoptera exempta,Nochoice,day0-5,5,46.96279602,46.96279602
+p21:c21,24,Spodoptera exempta,Nochoice,day0-5,5,32.40045102,32.40045102
+p21:c21,25,Spodoptera exempta,Nochoice,day0-5,5,35.06447049,35.06447049
+,,,,,,,
+p14:c28,1,Spodoptera exempta,Nochoice,day0-5,5,27.6222814,55.2445628
+p14:c28,2,Spodoptera exempta,Nochoice,day0-5,5,25.650079,51.300158
+p14:c28,3,Spodoptera exempta,Nochoice,day0-5,5,31.6922424,63.3844848
+p14:c28,4,Spodoptera exempta,Nochoice,day0-5,5,32.1377182,64.2754364
+p14:c28,5,Spodoptera exempta,Nochoice,day0-5,5,25.6408992,51.2817984
+p14:c28,6,Spodoptera exempta,Nochoice,day0-5,5,31.9856376,63.9712752
+p14:c28,7,Spodoptera exempta,Nochoice,day0-5,5,30.55479,61.10958
+p14:c28,8,Spodoptera exempta,Nochoice,day0-5,5,29.2484864,58.4969728
+p14:c28,9,Spodoptera exempta,Nochoice,day0-5,5,33.8827608,67.7655216
+p14:c28,10,Spodoptera exempta,Nochoice,day0-5,5,33.1084054,66.2168108
+p14:c28,11,Spodoptera exempta,Nochoice,day0-5,5,19.6827484,39.3654968
+p14:c28,12,Spodoptera exempta,Nochoice,day0-5,5,34.2138832,68.4277664
+,,,,,,,
+p7:c35,1,Spodoptera exempta,Nochoice,day0-5,5,13.19992093,65.99960465
+p7:c35,2,Spodoptera exempta,Nochoice,day0-5,5,13.49164194,67.4582097
+p7:c35,3,Spodoptera exempta,Nochoice,day0-5,5,14.95035017,74.75175085
+p7:c35,4,Spodoptera exempta,Nochoice,day0-5,5,15.75717752,78.7858876
+p7:c35,5,Spodoptera exempta,Nochoice,day0-5,5,18.69493976,93.4746988
+p7:c35,6,Spodoptera exempta,Nochoice,day0-5,5,16.57724159,82.88620795
+p7:c35,7,Spodoptera exempta,Nochoice,day0-5,5,14.73222086,73.6611043
+p7:c35,8,Spodoptera exempta,Nochoice,day0-5,5,18.82502762,94.1251381
+p7:c35,9,Spodoptera exempta,Nochoice,day0-5,5,18.34991011,91.74955055
+p7:c35,10,Spodoptera exempta,Nochoice,day0-5,5,15.63265935,78.16329675
+p7:c35,11,Spodoptera exempta,Nochoice,day0-5,5,18.55665301,92.78326505
+p7:c35,12,Spodoptera exempta,Nochoice,day0-5,5,18.77689947,93.88449735
+p7:c35,13,Spodoptera exempta,Nochoice,day0-5,5,14.42114198,72.1057099
+p7:c35,14,Spodoptera exempta,Nochoice,day0-5,5,12.38520493,61.92602465
+p7:c35,15,Spodoptera exempta,Nochoice,day0-5,5,14.16495885,70.82479425
+p7:c35,16,Spodoptera exempta,Nochoice,day0-5,5,16.6862017,83.4310085
+p7:c35,17,Spodoptera exempta,Nochoice,day0-5,5,18.42144024,92.1072012
+p7:c35,18,Spodoptera exempta,Nochoice,day0-5,5,13.5692914,67.846457
+p7:c35,19,Spodoptera exempta,Nochoice,day0-5,5,15.82936698,79.1468349
+p7:c35,20,Spodoptera exempta,Nochoice,day0-5,5,20.72440265,103.6220133
+p7:c35,21,Spodoptera exempta,Nochoice,day0-5,5,12.66682046,63.3341023
+p7:c35,22,Spodoptera exempta,Nochoice,day0-5,5,16.27381147,81.36905735
+p7:c35,23,Spodoptera exempta,Nochoice,day0-5,5,15.25042827,76.25214135
+p7:c35,24,Spodoptera exempta,Nochoice,day0-5,5,18.7616961,93.8084805
+p7:c35,25,Spodoptera exempta,Nochoice,day0-5,5,15.76701938,78.8350969
+,,,,,,,
+p35:c7 vs p21:c21,1,Spodoptera exempta,Choice,day0-1,1,5.83168572,4.91205036
+p35:c7 vs p21:c21,2,Spodoptera exempta,Choice,day0-1,1,6.0875276,6.05247832
+p35:c7 vs p21:c21,3,Spodoptera exempta,Choice,day0-1,1,8.1719666,4.50447844
+p35:c7 vs p21:c21,4,Spodoptera exempta,Choice,day0-1,1,9.69150462,4.77674022
+p35:c7 vs p21:c21,5,Spodoptera exempta,Choice,day0-1,1,6.75543862,4.13147294
+p35:c7 vs p21:c21,6,Spodoptera exempta,Choice,day0-1,1,11.58027808,8.56668512
+p35:c7 vs p21:c21,7,Spodoptera exempta,Choice,day0-1,1,6.45634192,5.80565552
+p35:c7 vs p21:c21,8,Spodoptera exempta,Choice,day0-1,1,6.95205518,4.87301878
+p35:c7 vs p21:c21,9,Spodoptera exempta,Choice,day0-1,1,7.76449198,3.50184086
+p35:c7 vs p21:c21,10,Spodoptera exempta,Choice,day0-1,1,9.2139502,6.82483004
+p35:c7 vs p21:c21,11,Spodoptera exempta,Choice,day0-1,1,6.20092144,6.05712464
+p35:c7 vs p21:c21,12,Spodoptera exempta,Choice,day0-1,1,7.6447798,6.00198284
+p35:c7 vs p21:c21,1,Spodoptera exempta,Choice,day0-2,2,16.66334838,13.47144414
+p35:c7 vs p21:c21,2,Spodoptera exempta,Choice,day0-2,2,19.02496722,16.59260106
+p35:c7 vs p21:c21,3,Spodoptera exempta,Choice,day0-2,2,19.58711804,14.3494414
+p35:c7 vs p21:c21,4,Spodoptera exempta,Choice,day0-2,2,22.42640372,15.94461988
+p35:c7 vs p21:c21,5,Spodoptera exempta,Choice,day0-2,2,18.81514054,14.91148526
+p35:c7 vs p21:c21,6,Spodoptera exempta,Choice,day0-2,2,27.1711454,22.48051708
+p35:c7 vs p21:c21,7,Spodoptera exempta,Choice,day0-2,2,21.92351308,18.30547964
+p35:c7 vs p21:c21,8,Spodoptera exempta,Choice,day0-2,2,21.74315626,16.35227426
+p35:c7 vs p21:c21,9,Spodoptera exempta,Choice,day0-2,2,21.72468046,16.13344502
+p35:c7 vs p21:c21,10,Spodoptera exempta,Choice,day0-2,2,25.04292196,19.44781748
+p35:c7 vs p21:c21,11,Spodoptera exempta,Choice,day0-2,2,20.22512604,16.00814124
+p35:c7 vs p21:c21,12,Spodoptera exempta,Choice,day0-2,2,21.85390648,18.10384184
+p35:c7 vs p21:c21,1,Spodoptera exempta,Choice,day0-3,3,28.698278,23.70988984
+p35:c7 vs p21:c21,2,Spodoptera exempta,Choice,day0-3,3,30.30514578,27.87277962
+p35:c7 vs p21:c21,3,Spodoptera exempta,Choice,day0-3,3,30.8509957,23.83099082
+p35:c7 vs p21:c21,4,Spodoptera exempta,Choice,day0-3,3,36.56988104,28.49357224
+p35:c7 vs p21:c21,5,Spodoptera exempta,Choice,day0-3,3,30.2712305,25.64682946
+p35:c7 vs p21:c21,6,Spodoptera exempta,Choice,day0-3,3,41.11999542,35.0100051
+p35:c7 vs p21:c21,7,Spodoptera exempta,Choice,day0-3,3,34.42170466,29.67150746
+p35:c7 vs p21:c21,8,Spodoptera exempta,Choice,day0-3,3,37.41061856,29.70056992
+p35:c7 vs p21:c21,9,Spodoptera exempta,Choice,day0-3,3,37.07072614,28.2658523
+p35:c7 vs p21:c21,10,Spodoptera exempta,Choice,day0-3,3,39.58019786,31.5252301
+p35:c7 vs p21:c21,11,Spodoptera exempta,Choice,day0-3,3,36.05659834,30.60479282
+p35:c7 vs p21:c21,12,Spodoptera exempta,Choice,day0-3,3,34.8477297,30.4480029
+p35:c7 vs p21:c21,1,Spodoptera exempta,Choice,day0-4,4,43.25914138,27.76470578
+p35:c7 vs p21:c21,2,Spodoptera exempta,Choice,day0-4,4,30.30514578,27.87277962
+p35:c7 vs p21:c21,3,Spodoptera exempta,Choice,day0-4,4,40.3625649,32.33078562
+p35:c7 vs p21:c21,4,Spodoptera exempta,Choice,day0-4,4,49.11571756,38.881031
+p35:c7 vs p21:c21,5,Spodoptera exempta,Choice,day0-4,4,41.17313018,36.01095442
+p35:c7 vs p21:c21,6,Spodoptera exempta,Choice,day0-4,4,41.11999542,35.0100051
+p35:c7 vs p21:c21,7,Spodoptera exempta,Choice,day0-4,4,34.42170466,29.67150746
+p35:c7 vs p21:c21,8,Spodoptera exempta,Choice,day0-4,4,48.44000406,39.00268638
+p35:c7 vs p21:c21,9,Spodoptera exempta,Choice,day0-4,4,47.10241186,36.23794202
+p35:c7 vs p21:c21,10,Spodoptera exempta,Choice,day0-4,4,39.58019786,31.5252301
+p35:c7 vs p21:c21,11,Spodoptera exempta,Choice,day0-4,4,48.47758594,41.90275418
+p35:c7 vs p21:c21,12,Spodoptera exempta,Choice,day0-4,4,34.8477297,30.4480029
+,,,,,,,
+p35:c7,1,Spodoptera littoralis,Nochoice,day0-1,1,61.5,12.3
+p35:c7,2,Spodoptera littoralis,Nochoice,day0-1,1,45.4,9.1
+p35:c7,3,Spodoptera littoralis,Nochoice,day0-1,1,39.8,8.0
+p35:c7,4,Spodoptera littoralis,Nochoice,day0-1,1,34.0,6.8
+p35:c7,5,Spodoptera littoralis,Nochoice,day0-1,1,39.6,7.9
+p35:c7,6,Spodoptera littoralis,Nochoice,day0-1,1,40.3,8.1
+p35:c7,7,Spodoptera littoralis,Nochoice,day0-1,1,42.1,8.4
+p35:c7,8,Spodoptera littoralis,Nochoice,day0-1,1,38.8,7.8
+p35:c7,9,Spodoptera littoralis,Nochoice,day0-1,1,34.2,6.8
+p35:c7,10,Spodoptera littoralis,Nochoice,day0-1,1,32.1,6.4
+p35:c7,11,Spodoptera littoralis,Nochoice,day0-1,1,35.6,7.1
+p35:c7,12,Spodoptera littoralis,Nochoice,day0-1,1,24.9,5.0
+,,,,,,,
+p28:c14,1,Spodoptera littoralis,Nochoice,day0-1,1,33.1,16.6
+p28:c14,2,Spodoptera littoralis,Nochoice,day0-1,1,30.6,15.3
+p28:c14,3,Spodoptera littoralis,Nochoice,day0-1,1,31.6,15.8
+p28:c14,4,Spodoptera littoralis,Nochoice,day0-1,1,32.8,16.4
+p28:c14,5,Spodoptera littoralis,Nochoice,day0-1,1,41.4,20.7
+p28:c14,6,Spodoptera littoralis,Nochoice,day0-1,1,22.8,11.4
+p28:c14,7,Spodoptera littoralis,Nochoice,day0-1,1,28.2,14.1
+p28:c14,8,Spodoptera littoralis,Nochoice,day0-1,1,23.6,11.8
+p28:c14,9,Spodoptera littoralis,Nochoice,day0-1,1,28.3,14.1
+p28:c14,10,Spodoptera littoralis,Nochoice,day0-1,1,17.2,8.6
+p28:c14,11,Spodoptera littoralis,Nochoice,day0-1,1,22.5,11.3
+p28:c14,12,Spodoptera littoralis,Nochoice,day0-1,1,17.2,8.6
+,,,,,,,
+p21:c21,1,Spodoptera littoralis,Nochoice,day0-1,1,34.2,34.2
+p21:c21,2,Spodoptera littoralis,Nochoice,day0-1,1,32.1,32.1
+p21:c21,3,Spodoptera littoralis,Nochoice,day0-1,1,27.2,27.2
+p21:c21,4,Spodoptera littoralis,Nochoice,day0-1,1,15.4,15.4
+p21:c21,5,Spodoptera littoralis,Nochoice,day0-1,1,25.9,25.9
+p21:c21,6,Spodoptera littoralis,Nochoice,day0-1,1,17.9,17.9
+p21:c21,7,Spodoptera littoralis,Nochoice,day0-1,1,30.7,30.7
+p21:c21,8,Spodoptera littoralis,Nochoice,day0-1,1,21.6,21.6
+p21:c21,9,Spodoptera littoralis,Nochoice,day0-1,1,27.7,27.7
+p21:c21,10,Spodoptera littoralis,Nochoice,day0-1,1,20.4,20.4
+p21:c21,11,Spodoptera littoralis,Nochoice,day0-1,1,13.7,13.7
+p21:c21,12,Spodoptera littoralis,Nochoice,day0-1,1,16.8,16.8
+,,,,,,,
+p14:c28,1,Spodoptera littoralis,Nochoice,day0-1,1,20.3,40.5
+p14:c28,2,Spodoptera littoralis,Nochoice,day0-1,1,20.1,40.1
+p14:c28,3,Spodoptera littoralis,Nochoice,day0-1,1,17.6,35.2
+p14:c28,4,Spodoptera littoralis,Nochoice,day0-1,1,13.8,27.6
+p14:c28,5,Spodoptera littoralis,Nochoice,day0-1,1,18.2,36.4
+p14:c28,6,Spodoptera littoralis,Nochoice,day0-1,1,16.6,33.2
+p14:c28,7,Spodoptera littoralis,Nochoice,day0-1,1,19.5,39.1
+p14:c28,8,Spodoptera littoralis,Nochoice,day0-1,1,13.2,26.4
+p14:c28,9,Spodoptera littoralis,Nochoice,day0-1,1,13.4,26.8
+p14:c28,10,Spodoptera littoralis,Nochoice,day0-1,1,13.4,26.9
+p14:c28,11,Spodoptera littoralis,Nochoice,day0-1,1,9.7,19.3
+p14:c28,12,Spodoptera littoralis,Nochoice,day0-1,1,12.0,24.0
+,,,,,,,
+p7:c35,1,Spodoptera littoralis,Nochoice,day0-1,1,12.1,60.7
+p7:c35,2,Spodoptera littoralis,Nochoice,day0-1,1,11.7,58.6
+p7:c35,3,Spodoptera littoralis,Nochoice,day0-1,1,9.8,48.9
+p7:c35,4,Spodoptera littoralis,Nochoice,day0-1,1,10.2,50.8
+p7:c35,5,Spodoptera littoralis,Nochoice,day0-1,1,8.0,39.9
+p7:c35,6,Spodoptera littoralis,Nochoice,day0-1,1,7.4,36.8
+p7:c35,7,Spodoptera littoralis,Nochoice,day0-1,1,11.1,55.4
+p7:c35,8,Spodoptera littoralis,Nochoice,day0-1,1,6.8,34.1
+p7:c35,9,Spodoptera littoralis,Nochoice,day0-1,1,8.1,40.7
+p7:c35,10,Spodoptera littoralis,Nochoice,day0-1,1,5.9,29.5
+p7:c35,11,Spodoptera littoralis,Nochoice,day0-1,1,5.5,27.5
+p7:c35,12,Spodoptera littoralis,Nochoice,day0-1,1,6.6,32.8
+,,,,,,,
+p35:c7,1,Spodoptera littoralis,Nochoice,day0-2,2,131.565,26.313
+p35:c7,2,Spodoptera littoralis,Nochoice,day0-2,2,112.77,22.554
+p35:c7,3,Spodoptera littoralis,Nochoice,day0-2,2,96.145,19.229
+p35:c7,4,Spodoptera littoralis,Nochoice,day0-2,2,81.06,16.212
+p35:c7,5,Spodoptera littoralis,Nochoice,day0-2,2,98.315,19.663
+p35:c7,6,Spodoptera littoralis,Nochoice,day0-2,2,108.08,21.616
+p35:c7,7,Spodoptera littoralis,Nochoice,day0-2,2,106.33,21.266
+p35:c7,8,Spodoptera littoralis,Nochoice,day0-2,2,79.135,15.827
+p35:c7,9,Spodoptera littoralis,Nochoice,day0-2,2,73.395,14.679
+p35:c7,10,Spodoptera littoralis,Nochoice,day0-2,2,66.78,13.356
+p35:c7,11,Spodoptera littoralis,Nochoice,day0-2,2,68.88,13.776
+p35:c7,12,Spodoptera littoralis,Nochoice,day0-2,2,51.73,10.346
+,,,,,,,
+p28:c14,1,Spodoptera littoralis,Nochoice,day0-2,2,93.632,46.816
+p28:c14,2,Spodoptera littoralis,Nochoice,day0-2,2,86.128,43.064
+p28:c14,3,Spodoptera littoralis,Nochoice,day0-2,2,46.004,23.002
+p28:c14,4,Spodoptera littoralis,Nochoice,day0-2,2,78.988,39.494
+p28:c14,5,Spodoptera littoralis,Nochoice,day0-2,2,92.848,46.424
+p28:c14,6,Spodoptera littoralis,Nochoice,day0-2,2,55.244,27.622
+p28:c14,7,Spodoptera littoralis,Nochoice,day0-2,2,78.736,39.368
+p28:c14,8,Spodoptera littoralis,Nochoice,day0-2,2,58.184,29.092
+p28:c14,9,Spodoptera littoralis,Nochoice,day0-2,2,79.94,39.97
+p28:c14,10,Spodoptera littoralis,Nochoice,day0-2,2,45.976,22.988
+p28:c14,11,Spodoptera littoralis,Nochoice,day0-2,2,59.332,29.666
+p28:c14,12,Spodoptera littoralis,Nochoice,day0-2,2,48.44,24.22
+,,,,,,,
+p21:c21,1,Spodoptera littoralis,Nochoice,day0-2,2,77.826,77.826
+p21:c21,2,Spodoptera littoralis,Nochoice,day0-2,2,75.054,75.054
+p21:c21,3,Spodoptera littoralis,Nochoice,day0-2,2,58.002,58.002
+p21:c21,4,Spodoptera littoralis,Nochoice,day0-2,2,35.112,35.112
+p21:c21,5,Spodoptera littoralis,Nochoice,day0-2,2,60.648,60.648
+p21:c21,6,Spodoptera littoralis,Nochoice,day0-2,2,46.83,46.83
+p21:c21,7,Spodoptera littoralis,Nochoice,day0-2,2,70.035,70.035
+p21:c21,8,Spodoptera littoralis,Nochoice,day0-2,2,57.288,57.288
+p21:c21,9,Spodoptera littoralis,Nochoice,day0-2,2,63.735,63.735
+p21:c21,10,Spodoptera littoralis,Nochoice,day0-2,2,42.063,42.063
+p21:c21,11,Spodoptera littoralis,Nochoice,day0-2,2,36.12,36.12
+p21:c21,12,Spodoptera littoralis,Nochoice,day0-2,2,37.527,37.527
+,,,,,,,
+p14:c28,1,Spodoptera littoralis,Nochoice,day0-2,2,44.492,88.984
+p14:c28,2,Spodoptera littoralis,Nochoice,day0-2,2,43.89,87.78
+p14:c28,3,Spodoptera littoralis,Nochoice,day0-2,2,30.674,61.348
+p14:c28,4,Spodoptera littoralis,Nochoice,day0-2,2,29.33,58.66
+p14:c28,5,Spodoptera littoralis,Nochoice,day0-2,2,40.572,81.144
+p14:c28,6,Spodoptera littoralis,Nochoice,day0-2,2,36.96,73.92
+p14:c28,7,Spodoptera littoralis,Nochoice,day0-2,2,43.456,86.912
+p14:c28,8,Spodoptera littoralis,Nochoice,day0-2,2,29.232,58.464
+p14:c28,9,Spodoptera littoralis,Nochoice,day0-2,2,28.518,57.036
+p14:c28,10,Spodoptera littoralis,Nochoice,day0-2,2,26.488,52.976
+p14:c28,11,Spodoptera littoralis,Nochoice,day0-2,2,22.316,44.632
+p14:c28,12,Spodoptera littoralis,Nochoice,day0-2,2,24.164,48.328
+,,,,,,,
+p7:c35,1,Spodoptera littoralis,Nochoice,day0-2,2,20.783,103.915
+p7:c35,2,Spodoptera littoralis,Nochoice,day0-2,2,20.377,101.885
+p7:c35,3,Spodoptera littoralis,Nochoice,day0-2,2,15.526,77.63
+p7:c35,4,Spodoptera littoralis,Nochoice,day0-2,2,20.174,100.87
+p7:c35,5,Spodoptera littoralis,Nochoice,day0-2,2,15.862,79.31
+p7:c35,6,Spodoptera littoralis,Nochoice,day0-2,2,13.006,65.03
+p7:c35,7,Spodoptera littoralis,Nochoice,day0-2,2,20.202,101.01
+p7:c35,8,Spodoptera littoralis,Nochoice,day0-2,2,16.058,80.29
+p7:c35,9,Spodoptera littoralis,Nochoice,day0-2,2,12.222,61.11
+p7:c35,10,Spodoptera littoralis,Nochoice,day0-2,2,11.256,56.28
+p7:c35,11,Spodoptera littoralis,Nochoice,day0-2,2,11.011,55.055
+p7:c35,12,Spodoptera littoralis,Nochoice,day0-2,2,8.155,40.775
+,,,,,,,
+p35:c7,1,Spodoptera littoralis,Nochoice,day0-3,3,190.4,38.1
+p35:c7,2,Spodoptera littoralis,Nochoice,day0-3,3,176.9,35.4
+p35:c7,3,Spodoptera littoralis,Nochoice,day0-3,3,167.2,33.4
+p35:c7,4,Spodoptera littoralis,Nochoice,day0-3,3,148.4,29.7
+p35:c7,5,Spodoptera littoralis,Nochoice,day0-3,3,172.3,34.5
+p35:c7,6,Spodoptera littoralis,Nochoice,day0-3,3,178.6,35.7
+p35:c7,7,Spodoptera littoralis,Nochoice,day0-3,3,174.3,34.9
+p35:c7,8,Spodoptera littoralis,Nochoice,day0-3,3,140.8,28.2
+p35:c7,9,Spodoptera littoralis,Nochoice,day0-3,3,133.3,26.7
+p35:c7,10,Spodoptera littoralis,Nochoice,day0-3,3,107.7,21.5
+p35:c7,11,Spodoptera littoralis,Nochoice,day0-3,3,112.6,22.5
+p35:c7,12,Spodoptera littoralis,Nochoice,day0-3,3,84.5,16.9
+,,,,,,,
+p28:c14,1,Spodoptera littoralis,Nochoice,day0-3,3,149.4,74.7
+p28:c14,2,Spodoptera littoralis,Nochoice,day0-3,3,141.7,70.8
+p28:c14,3,Spodoptera littoralis,Nochoice,day0-3,3,88.0,44.0
+p28:c14,4,Spodoptera littoralis,Nochoice,day0-3,3,135.2,67.6
+p28:c14,5,Spodoptera littoralis,Nochoice,day0-3,3,145.9,73.0
+p28:c14,6,Spodoptera littoralis,Nochoice,day0-3,3,97.7,48.8
+p28:c14,7,Spodoptera littoralis,Nochoice,day0-3,3,132.5,66.2
+p28:c14,8,Spodoptera littoralis,Nochoice,day0-3,3,108.9,54.5
+p28:c14,9,Spodoptera littoralis,Nochoice,day0-3,3,141.1,70.6
+p28:c14,10,Spodoptera littoralis,Nochoice,day0-3,3,84.7,42.4
+p28:c14,11,Spodoptera littoralis,Nochoice,day0-3,3,104.8,52.4
+p28:c14,12,Spodoptera littoralis,Nochoice,day0-3,3,81.5,40.7
+,,,,,,,
+p21:c21,1,Spodoptera littoralis,Nochoice,day0-3,3,128.9,128.9
+p21:c21,2,Spodoptera littoralis,Nochoice,day0-3,3,128.0,128.0
+p21:c21,3,Spodoptera littoralis,Nochoice,day0-3,3,102.3,102.3
+p21:c21,4,Spodoptera littoralis,Nochoice,day0-3,3,67.3,67.3
+p21:c21,5,Spodoptera littoralis,Nochoice,day0-3,3,95.3,95.3
+p21:c21,6,Spodoptera littoralis,Nochoice,day0-3,3,87.2,87.2
+p21:c21,7,Spodoptera littoralis,Nochoice,day0-3,3,108.9,108.9
+p21:c21,8,Spodoptera littoralis,Nochoice,day0-3,3,101.0,101.0
+p21:c21,9,Spodoptera littoralis,Nochoice,day0-3,3,101.4,101.4
+p21:c21,10,Spodoptera littoralis,Nochoice,day0-3,3,65.5,65.5
+p21:c21,11,Spodoptera littoralis,Nochoice,day0-3,3,50.7,50.7
+p21:c21,12,Spodoptera littoralis,Nochoice,day0-3,3,54.1,54.1
+,,,,,,,
+p14:c28,1,Spodoptera littoralis,Nochoice,day0-3,3,71.3,142.6
+p14:c28,2,Spodoptera littoralis,Nochoice,day0-3,3,70.4,140.8
+p14:c28,3,Spodoptera littoralis,Nochoice,day0-3,3,50.9,101.8
+p14:c28,4,Spodoptera littoralis,Nochoice,day0-3,3,54.1,108.1
+p14:c28,5,Spodoptera littoralis,Nochoice,day0-3,3,67.5,135.0
+p14:c28,6,Spodoptera littoralis,Nochoice,day0-3,3,60.2,120.4
+p14:c28,7,Spodoptera littoralis,Nochoice,day0-3,3,68.8,137.5
+p14:c28,8,Spodoptera littoralis,Nochoice,day0-3,3,49.1,98.2
+p14:c28,9,Spodoptera littoralis,Nochoice,day0-3,3,45.9,91.8
+p14:c28,10,Spodoptera littoralis,Nochoice,day0-3,3,44.2,88.3
+p14:c28,11,Spodoptera littoralis,Nochoice,day0-3,3,39.0,78.1
+p14:c28,12,Spodoptera littoralis,Nochoice,day0-3,3,43.0,85.9
+,,,,,,,
+p7:c35,1,Spodoptera littoralis,Nochoice,day0-3,3,35.2,176.1
+p7:c35,2,Spodoptera littoralis,Nochoice,day0-3,3,34.5,172.4
+p7:c35,3,Spodoptera littoralis,Nochoice,day0-3,3,26.4,132.1
+p7:c35,4,Spodoptera littoralis,Nochoice,day0-3,3,32.1,160.6
+p7:c35,5,Spodoptera littoralis,Nochoice,day0-3,3,26.7,133.3
+p7:c35,6,Spodoptera littoralis,Nochoice,day0-3,3,22.6,113.1
+p7:c35,7,Spodoptera littoralis,Nochoice,day0-3,3,34.7,173.5
+p7:c35,8,Spodoptera littoralis,Nochoice,day0-3,3,26.6,132.9
+p7:c35,9,Spodoptera littoralis,Nochoice,day0-3,3,22.4,112.0
+p7:c35,10,Spodoptera littoralis,Nochoice,day0-3,3,18.7,93.5
+p7:c35,11,Spodoptera littoralis,Nochoice,day0-3,3,18.8,94.0
+p7:c35,12,Spodoptera littoralis,Nochoice,day0-3,3,17.1,85.5
+,,,,,,,
+p35:c7,1,Spodoptera littoralis,Nochoice,day0-4,4,254.45,50.89
+p35:c7,2,Spodoptera littoralis,Nochoice,day0-4,4,260.995,52.199
+p35:c7,3,Spodoptera littoralis,Nochoice,day0-4,4,225.05,45.01
+p35:c7,4,Spodoptera littoralis,Nochoice,day0-4,4,230.58,46.116
+p35:c7,5,Spodoptera littoralis,Nochoice,day0-4,4,242.41,48.482
+p35:c7,6,Spodoptera littoralis,Nochoice,day0-4,4,247.52,49.504
+p35:c7,7,Spodoptera littoralis,Nochoice,day0-4,4,245.07,49.014
+p35:c7,8,Spodoptera littoralis,Nochoice,day0-4,4,225.155,45.031
+p35:c7,9,Spodoptera littoralis,Nochoice,day0-4,4,187.46,37.492
+p35:c7,10,Spodoptera littoralis,Nochoice,day0-4,4,158.095,31.619
+p35:c7,11,Spodoptera littoralis,Nochoice,day0-4,4,165.375,33.075
+p35:c7,12,Spodoptera littoralis,Nochoice,day0-4,4,121.24,24.248
+,,,,,,,
+p28:c14,1,Spodoptera littoralis,Nochoice,day0-4,4,207.396,103.698
+p28:c14,2,Spodoptera littoralis,Nochoice,day0-4,4,191.436,95.718
+p28:c14,3,Spodoptera littoralis,Nochoice,day0-4,4,151.844,75.922
+p28:c14,4,Spodoptera littoralis,Nochoice,day0-4,4,178.5,89.25
+p28:c14,5,Spodoptera littoralis,Nochoice,day0-4,4,192.416,96.208
+p28:c14,6,Spodoptera littoralis,Nochoice,day0-4,4,148.988,74.494
+p28:c14,7,Spodoptera littoralis,Nochoice,day0-4,4,190.372,95.186
+p28:c14,8,Spodoptera littoralis,Nochoice,day0-4,4,167.776,83.888
+p28:c14,9,Spodoptera littoralis,Nochoice,day0-4,4,205.66,102.83
+p28:c14,10,Spodoptera littoralis,Nochoice,day0-4,4,128.604,64.302
+p28:c14,11,Spodoptera littoralis,Nochoice,day0-4,4,156.688,78.344
+p28:c14,12,Spodoptera littoralis,Nochoice,day0-4,4,122.64,61.32
+,,,,,,,
+p21:c21,1,Spodoptera littoralis,Nochoice,day0-4,4,184.422,184.422
+p21:c21,2,Spodoptera littoralis,Nochoice,day0-4,4,172.536,172.536
+p21:c21,3,Spodoptera littoralis,Nochoice,day0-4,4,142.191,142.191
+p21:c21,4,Spodoptera littoralis,Nochoice,day0-4,4,106.659,106.659
+p21:c21,5,Spodoptera littoralis,Nochoice,day0-4,4,137.445,137.445
+p21:c21,6,Spodoptera littoralis,Nochoice,day0-4,4,117.369,117.369
+p21:c21,7,Spodoptera littoralis,Nochoice,day0-4,4,155.799,155.799
+p21:c21,8,Spodoptera littoralis,Nochoice,day0-4,4,140.301,140.301
+p21:c21,9,Spodoptera littoralis,Nochoice,day0-4,4,130.809,130.809
+p21:c21,10,Spodoptera littoralis,Nochoice,day0-4,4,73.542,73.542
+p21:c21,11,Spodoptera littoralis,Nochoice,day0-4,4,75.117,75.117
+p21:c21,12,Spodoptera littoralis,Nochoice,day0-4,4,77.679,77.679
+,,,,,,,
+p14:c28,1,Spodoptera littoralis,Nochoice,day0-4,4,95.788,191.576
+p14:c28,2,Spodoptera littoralis,Nochoice,day0-4,4,97.482,194.964
+p14:c28,3,Spodoptera littoralis,Nochoice,day0-4,4,71.092,142.184
+p14:c28,4,Spodoptera littoralis,Nochoice,day0-4,4,86.52,173.04
+p14:c28,5,Spodoptera littoralis,Nochoice,day0-4,4,103.068,206.136
+p14:c28,6,Spodoptera littoralis,Nochoice,day0-4,4,85.582,171.164
+p14:c28,7,Spodoptera littoralis,Nochoice,day0-4,4,90.02,180.04
+p14:c28,8,Spodoptera littoralis,Nochoice,day0-4,4,72.996,145.992
+p14:c28,9,Spodoptera littoralis,Nochoice,day0-4,4,65.324,130.648
+p14:c28,10,Spodoptera littoralis,Nochoice,day0-4,4,66.262,132.524
+p14:c28,11,Spodoptera littoralis,Nochoice,day0-4,4,59.332,118.664
+p14:c28,12,Spodoptera littoralis,Nochoice,day0-4,4,64.582,129.164
+,,,,,,,
+p7:c35,1,Spodoptera littoralis,Nochoice,day0-4,4,54.278,271.39
+p7:c35,2,Spodoptera littoralis,Nochoice,day0-4,4,51.422,257.11
+p7:c35,3,Spodoptera littoralis,Nochoice,day0-4,4,36.939,184.695
+p7:c35,4,Spodoptera littoralis,Nochoice,day0-4,4,47.362,236.81
+p7:c35,5,Spodoptera littoralis,Nochoice,day0-4,4,40.187,200.935
+p7:c35,6,Spodoptera littoralis,Nochoice,day0-4,4,35.665,178.325
+p7:c35,7,Spodoptera littoralis,Nochoice,day0-4,4,50.995,254.975
+p7:c35,8,Spodoptera littoralis,Nochoice,day0-4,4,37.919,189.595
+p7:c35,9,Spodoptera littoralis,Nochoice,day0-4,4,31.927,159.635
+p7:c35,10,Spodoptera littoralis,Nochoice,day0-4,4,24.094,120.47
+p7:c35,11,Spodoptera littoralis,Nochoice,day0-4,4,24.745,123.725
+p7:c35,12,Spodoptera littoralis,Nochoice,day0-4,4,21.721,108.605
+,,,,,,,
+p35:c7,1,Spodoptera littoralis,Nochoice,day0-5,5,254.5,50.9
+p35:c7,2,Spodoptera littoralis,Nochoice,day0-5,5,261.0,52.2
+p35:c7,3,Spodoptera littoralis,Nochoice,day0-5,5,225.1,45.0
+p35:c7,4,Spodoptera littoralis,Nochoice,day0-5,5,291.0,58.2
+p35:c7,5,Spodoptera littoralis,Nochoice,day0-5,5,242.4,48.5
+p35:c7,6,Spodoptera littoralis,Nochoice,day0-5,5,247.5,49.5
+p35:c7,7,Spodoptera littoralis,Nochoice,day0-5,5,245.1,49.0
+p35:c7,8,Spodoptera littoralis,Nochoice,day0-5,5,264.4,52.9
+p35:c7,9,Spodoptera littoralis,Nochoice,day0-5,5,254.8,51.0
+p35:c7,10,Spodoptera littoralis,Nochoice,day0-5,5,225.3,45.1
+p35:c7,11,Spodoptera littoralis,Nochoice,day0-5,5,226.0,45.2
+p35:c7,12,Spodoptera littoralis,Nochoice,day0-5,5,175.0,35.0
+,,,,,,,
+p28:c14,1,Spodoptera littoralis,Nochoice,day0-5,5,207.4,103.7
+p28:c14,2,Spodoptera littoralis,Nochoice,day0-5,5,191.4,95.7
+p28:c14,3,Spodoptera littoralis,Nochoice,day0-5,5,199.9,100.0
+p28:c14,4,Spodoptera littoralis,Nochoice,day0-5,5,178.5,89.3
+p28:c14,5,Spodoptera littoralis,Nochoice,day0-5,5,192.4,96.2
+p28:c14,6,Spodoptera littoralis,Nochoice,day0-5,5,188.6,94.3
+p28:c14,7,Spodoptera littoralis,Nochoice,day0-5,5,190.4,95.2
+p28:c14,8,Spodoptera littoralis,Nochoice,day0-5,5,207.8,103.9
+p28:c14,9,Spodoptera littoralis,Nochoice,day0-5,5,251.1,125.5
+p28:c14,10,Spodoptera littoralis,Nochoice,day0-5,5,161.8,80.9
+p28:c14,11,Spodoptera littoralis,Nochoice,day0-5,5,187.5,93.8
+p28:c14,12,Spodoptera littoralis,Nochoice,day0-5,5,151.8,75.9
+,,,,,,,
+p21:c21,1,Spodoptera littoralis,Nochoice,day0-5,5,184.4,184.4
+p21:c21,2,Spodoptera littoralis,Nochoice,day0-5,5,172.5,172.5
+p21:c21,3,Spodoptera littoralis,Nochoice,day0-5,5,142.2,142.2
+p21:c21,4,Spodoptera littoralis,Nochoice,day0-5,5,143.5,143.5
+p21:c21,5,Spodoptera littoralis,Nochoice,day0-5,5,137.4,137.4
+p21:c21,6,Spodoptera littoralis,Nochoice,day0-5,5,117.4,117.4
+p21:c21,7,Spodoptera littoralis,Nochoice,day0-5,5,155.8,155.8
+p21:c21,8,Spodoptera littoralis,Nochoice,day0-5,5,140.3,140.3
+p21:c21,9,Spodoptera littoralis,Nochoice,day0-5,5,149.7,149.7
+p21:c21,10,Spodoptera littoralis,Nochoice,day0-5,5,104.7,104.7
+p21:c21,11,Spodoptera littoralis,Nochoice,day0-5,5,108.2,108.2
+p21:c21,12,Spodoptera littoralis,Nochoice,day0-5,5,109.7,109.7
+,,,,,,,
+p14:c28,1,Spodoptera littoralis,Nochoice,day0-5,5,95.8,191.6
+p14:c28,2,Spodoptera littoralis,Nochoice,day0-5,5,97.5,195.0
+p14:c28,3,Spodoptera littoralis,Nochoice,day0-5,5,88.0,176.0
+p14:c28,4,Spodoptera littoralis,Nochoice,day0-5,5,86.5,173.0
+p14:c28,5,Spodoptera littoralis,Nochoice,day0-5,5,128.8,257.7
+p14:c28,6,Spodoptera littoralis,Nochoice,day0-5,5,100.0,200.0
+p14:c28,7,Spodoptera littoralis,Nochoice,day0-5,5,90.0,180.0
+p14:c28,8,Spodoptera littoralis,Nochoice,day0-5,5,88.0,175.9
+p14:c28,9,Spodoptera littoralis,Nochoice,day0-5,5,87.5,175.0
+p14:c28,10,Spodoptera littoralis,Nochoice,day0-5,5,85.6,171.2
+p14:c28,11,Spodoptera littoralis,Nochoice,day0-5,5,84.5,168.9
+p14:c28,12,Spodoptera littoralis,Nochoice,day0-5,5,82.5,165.0
+,,,,,,,
+p7:c35,1,Spodoptera littoralis,Nochoice,day0-5,5,62.8,313.8
+p7:c35,2,Spodoptera littoralis,Nochoice,day0-5,5,59.0,295.0
+p7:c35,3,Spodoptera littoralis,Nochoice,day0-5,5,50.4,251.8
+p7:c35,4,Spodoptera littoralis,Nochoice,day0-5,5,58.8,293.8
+p7:c35,5,Spodoptera littoralis,Nochoice,day0-5,5,53.9,269.5
+p7:c35,6,Spodoptera littoralis,Nochoice,day0-5,5,51.6,257.8
+p7:c35,7,Spodoptera littoralis,Nochoice,day0-5,5,62.3,311.4
+p7:c35,8,Spodoptera littoralis,Nochoice,day0-5,5,49.6,247.8
+p7:c35,9,Spodoptera littoralis,Nochoice,day0-5,5,46.8,233.9
+p7:c35,10,Spodoptera littoralis,Nochoice,day0-5,5,32.3,161.5
+p7:c35,11,Spodoptera littoralis,Nochoice,day0-5,5,34.8,173.8
+p7:c35,12,Spodoptera littoralis,Nochoice,day0-5,5,31.7,158.3
+,,,,,,,
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-1,1,31.3,16.8
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-1,1,19.1,13.8
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-1,1,28.6,12.2
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-1,1,29.4,16.2
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-1,1,24.4,11.1
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-1,1,28.7,17.3
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-1,1,30.7,17.9
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-1,1,24.6,19.7
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-1,1,20.5,12.7
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-1,1,32.4,21
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-1,1,24.5,19.3
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-1,1,28.8,13.8
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-2,2,77.2,47.7
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-2,2,47.6,39.1
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-2,2,68.7,44.4
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-2,2,74.1,48.6
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-2,2,61.5,41.7
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-2,2,58.6,39.8
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-2,2,67.1,40.7
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-2,2,52.9,45.5
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-2,2,48.7,29.7
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-2,2,64.6,37
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-2,2,52.8,42.4
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-2,2,58.7,37.6
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-3,3,144.1,83.3
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-3,3,87.9,78.7
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-3,3,124.2,80.6
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-3,3,128.5,93.4
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-3,3,110.7,81.6
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-3,3,88.6,65.5
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-3,3,113.4,82.4
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-3,3,89.1,81.2
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-3,3,79.1,46.2
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-3,3,115.5,71.1
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-3,3,88.3,68.5
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-3,3,98,71.7
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-4,4,192.8,104.4
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-4,4,115.2,102.6
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-4,4,163.4,115.9
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-4,4,169.5,121.8
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-4,4,149.2,110.9
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-4,4,134.1,88.3
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-4,4,171.3,136.8
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-4,4,112.3,102.8
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-4,4,134,67.2
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-4,4,148.9,103.5
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-4,4,130.9,110.8
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-4,4,150.8,117.3
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-5,5,192.8,104.4
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-5,5,115.2,102.6
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-5,5,163.4,115.9
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-5,5,169.5,121.8
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-5,5,149.2,110.9
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-5,5,175.1,111.1
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-5,5,202.5,157.4
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-5,5,112.3,102.8
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-5,5,181.9,102.1
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-5,5,148.9,103.5
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-5,5,173.7,134
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-5,5,183.1,136.1
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-6,6,192.8,104.4
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-6,6,115.2,102.6
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-6,6,163.4,115.9
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-6,6,169.5,121.8
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-6,6,149.2,110.9
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-6,6,175.1,111.1
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-6,6,202.5,157.4
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-6,6,112.3,102.8
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-6,6,241.3,135.5
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-6,6,148.9,103.5
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-6,6,173.7,134
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-6,6,183.1,136.1
+p35:c7 vs p21:c21,1,Spodoptera littoralis,Choice,day0-7,7,192.8,104.4
+p35:c7 vs p21:c21,2,Spodoptera littoralis,Choice,day0-7,7,115.2,102.6
+p35:c7 vs p21:c21,3,Spodoptera littoralis,Choice,day0-7,7,163.4,115.9
+p35:c7 vs p21:c21,4,Spodoptera littoralis,Choice,day0-7,7,169.5,121.8
+p35:c7 vs p21:c21,5,Spodoptera littoralis,Choice,day0-7,7,149.2,110.9
+p35:c7 vs p21:c21,6,Spodoptera littoralis,Choice,day0-7,7,175.1,111.1
+p35:c7 vs p21:c21,7,Spodoptera littoralis,Choice,day0-7,7,202.5,157.4
+p35:c7 vs p21:c21,8,Spodoptera littoralis,Choice,day0-7,7,112.3,102.8
+p35:c7 vs p21:c21,9,Spodoptera littoralis,Choice,day0-7,7,241.3,135.5
+p35:c7 vs p21:c21,10,Spodoptera littoralis,Choice,day0-7,7,148.9,103.5
+p35:c7 vs p21:c21,11,Spodoptera littoralis,Choice,day0-7,7,173.7,134
+p35:c7 vs p21:c21,12,Spodoptera littoralis,Choice,day0-7,7,183.1,136.1

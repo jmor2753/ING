@@ -1,0 +1,7 @@
+"trait","surface","best_nll","AICc","log10_l2_at_best","nll_W_dominant"
+"lifespan","quadratic",24.41,55.82,3,44.97
+"lifespan","thinplate",24.4,55.8,2.5,44.61
+"lifetimeegg","quadratic",24.41,55.82,3,45.9
+"lifetimeegg","thinplate",24.41,55.82,3,47.55
+"dailyeggs","quadratic",24.41,55.82,3,47.51
+"dailyeggs","thinplate",24.41,55.82,3,48.55

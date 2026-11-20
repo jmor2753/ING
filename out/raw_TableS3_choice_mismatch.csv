@@ -1,0 +1,5 @@
+"Scenario","Extra_parameters","AICc_nochoice","rho","Ratio_RMSE","Ratio_r","CP_S180_predicted","CP_S180_observed","AICc_choice"
+"Baseline: Aniso+AsymPC+L2+Cap (yeast 45% P, 24% C)","--",-44.24,0.4941,0.6197,0.5987,1.565,3.506,26.03
+"A: yeast 60.0% P, 17.5% C (best ratio fit)","(composition)",-44.24,0.5726,0.4441,0.6269,1.523,2.521,NA
+"A: available protein 60.0% (largest tested; S180 gap not closed)","(composition)",-44.24,0.5919,0.4568,0.6271,1.519,2.629,NA
+"C: sucrose palatability (gamma = 0.255)","gamma (from choice)",-44.24,0.5599,0.4484,0.4235,1.923,3.506,18
